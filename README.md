@@ -23,9 +23,14 @@
 ##### Week-1 (2019.01.14)
 * Breif Introduction to weakly supervision (박정수)
 * Class Activation Map Series (김강열)
+
   [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150)
+  
   [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
+  
   [Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks](https://arxiv.org/abs/1710.11063)
+
+
 
 ##### Week-2 (2019.01.21)
 * MDNet (박성현)
@@ -36,6 +41,8 @@
 
   [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 
+
+
 ##### Week-3 (2019.01.28)
 * BiDAF (박성현)
 
@@ -44,6 +51,8 @@
 * DFNet (김강열)
 
   [Learning a Discriminative Feature Network for Semantic Segmentation](https://arxiv.org/abs/1804.09337)
+
+
 
 ##### Week-4 (2019.02.11)
 * Universal Language Model Fine-tuning for Text Classification (김용규)
@@ -55,6 +64,8 @@
   [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
   
   [Variational Autoencoded Regression: High Dimensional Regression of Visual Data on Complex Manifold](https://ieeexplore.ieee.org/abstract/document/8099797)
+
+
 
 ##### Week-5 (2019.02.19)
 * SAGAN (김강열)
@@ -68,6 +79,8 @@
   [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
   
   [Separating Style and Content for Generalized Style Transfer](https://arxiv.org/abs/1711.06454)
+
+
 
 ##### Week-6 (2019.03.17)
 * CAVE (박정수)
