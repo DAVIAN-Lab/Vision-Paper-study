@@ -4,7 +4,7 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-| 2019.01.14 | Breif Introduction to weakly supervision | 박정수 | [Slides](Paper-PPT\Week1-Breif_introduction_to_weakly_supervision.pdf) |
+| 2019.01.14 | Brief Introduction to weakly supervision | 박정수 | [Slides](Paper-PPT\Week1-Breif_introduction_to_weakly_supervision.pdf) |
 | 2019.01.14 | Class Activation Map Series | 김강열 | [Slides](Paper-PPT\Week1-Class_Activation_Map_series.pdf) |
 | 2019.01.21 | MDNet | 박성현 | [Slides](Paper-PPT\Week2-MDNet.pdf) |
 | 2019.01.21 | Object Detection | 김용규 | [Slides](Paper-PPT\Week2-Object_Detection.pdf) |
@@ -22,6 +22,9 @@
 #### 참고자료 정리
 ##### Week-1 (2019.01.14)
 * Breif Introduction to weakly supervision (박정수)
+  
+  [Breif Introduction to weakly supervision](https://academic.oup.com/nsr/article/5/1/44/4093912)
+
 * Class Activation Map Series (김강열)
 
   [Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150)
