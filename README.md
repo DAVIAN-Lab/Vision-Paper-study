@@ -17,7 +17,7 @@
 | 2019.03.17 | CAVE | 박정수 | [Slides](Paper-PPT\Week6-CVAE.pdf) |
 | 2019.03.17 | TADAM | 김용규 | [Slides](Paper-PPT\Week6-TADAM.pdf) |
 | 2019.03.28 | PADA | 김강열 | [Slides](Paper-PPT\Week7-PADA.pdf) |
-| 2019.03.28 | PDB ConvLSTM | 박성현 | [Slides]Paper-PPT\Week7-PDB_ConvLSTM.pdf) |
+| 2019.03.28 | PDB ConvLSTM | 박성현 | [Slides](Paper-PPT\Week7-PDB_ConvLSTM.pdf) |
 | 2019.04.04 | Generative Multi-Adversarial Network | 김용규 | [Slides](Paper-PPT\Week8-Generative_Multi-Adversarial_Network.pdf) |
 | 2019.04.04 | Text Style Transfer Cross Alignment | 박정수 | [Slides](Paper-PPT\Week8-Text_Style_Transfer_Cross_Alignment.pdf) |
 
