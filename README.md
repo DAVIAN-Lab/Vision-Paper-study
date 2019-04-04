@@ -16,7 +16,10 @@
 | 2019.02.19 | Style Transfer | 박성현 | [Slides](Paper-PPT\Week5-Style_Transfer.pdf) |
 | 2019.03.17 | CAVE | 박정수 | [Slides](Paper-PPT\Week6-CVAE.pdf) |
 | 2019.03.17 | TADAM | 김용규 | [Slides](Paper-PPT\Week6-TADAM.pdf) |
-
+| 2019.03.28 | PADA | 김강열 | [Slides](Paper-PPT\Week7-PADA.pdf) |
+| 2019.03.28 | PDB ConvLSTM | 박성현 | [Slides]Paper-PPT\Week7-PDB_ConvLSTM.pdf) |
+| 2019.04.04 | Generative Multi-Adversarial Network | 김용규 | [Slides](Paper-PPT\Week8-Generative_Multi-Adversarial_Network.pdf) |
+| 2019.04.04 | Text Style Transfer Cross Alignment | 박정수 | [Slides](Paper-PPT\Week8-Text_Style_Transfer_Cross_Alignment.pdf) |
 
 
 #### 참고자료 정리
@@ -93,3 +96,25 @@
 * TADAM (김용규)
 
   [TADAM: Task dependent adaptive metric for improved few-shot learning](https://arxiv.org/abs/1805.10123)
+
+
+
+##### Week-6 (2019.03.17)
+* PADA (김강열)
+
+  [Partial Adversarial Domain Adaptation (ECCV 2018)](https://arxiv.org/abs/1808.04205)
+
+* PDB ConvLSTM (박성현)
+
+  [Pyramid Dilated Deeper ConvLSTM for Video Salient Object Detection (ECCV 2018)](http://openaccess.thecvf.com/content_ECCV_2018/html/Hongmei_Song_Pseudo_Pyramid_Deeper_ECCV_2018_paper.html)
+
+
+
+##### Week-6 (2019.03.17)
+* Generative Multi-Adversarial Network (김용규)
+
+  [Generative Multi-Adversarial Network (ICLR 2017)](https://arxiv.org/abs/1611.01673)
+
+* Text Style Transfer Cross Alignment (박정수)
+
+  [Style Transfer from Non-Parallel Text by Cross-Alignment (NIPS 2017)](https://arxiv.org/abs/1705.09655?context=cs)
