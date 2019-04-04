@@ -4,22 +4,22 @@
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:|
-| 2019.01.14 | Brief Introduction to weakly supervision | 박정수 | [Slides](Paper-PPT\Week1-Breif_introduction_to_weakly_supervision.pdf) |
-| 2019.01.14 | Class Activation Map Series | 김강열 | [Slides](Paper-PPT\Week1-Class_Activation_Map_series.pdf) |
-| 2019.01.21 | MDNet | 박성현 | [Slides](Paper-PPT\Week2-MDNet.pdf) |
-| 2019.01.21 | Object Detection | 김용규 | [Slides](Paper-PPT\Week2-Object_Detection.pdf) |
-| 2019.01.28 | BiDAF | 박성현 | [Slides](Paper-PPT\Week3-BiDAF.pdf) |
-| 2019.01.28 | DFNet | 김강열 | [Slides](Paper-PPT\Week3-DFNet.pdf) |
-| 2019.02.11 | Universal Language Model Fine-tuning for Text Classification | 김용규 | [Slides](Paper-PPT\Week4-Universal_Language_Model_Fine-tuning_for_Text_Classification.pdf) |
-| 2019.02.11 | VAE | 박정수 | [Slides](Paper-PPT\Week4-VAE.pdf) |
-| 2019.02.19 | SAGAN | 김강열 | [Slides](Paper-PPT\Week5-SAGAN.pdf) |
-| 2019.02.19 | Style Transfer | 박성현 | [Slides](Paper-PPT\Week5-Style_Transfer.pdf) |
-| 2019.03.17 | CAVE | 박정수 | [Slides](Paper-PPT\Week6-CVAE.pdf) |
-| 2019.03.17 | TADAM | 김용규 | [Slides](Paper-PPT\Week6-TADAM.pdf) |
-| 2019.03.28 | PADA | 김강열 | [Slides](Paper-PPT\Week7-PADA.pdf) |
-| 2019.03.28 | PDB ConvLSTM | 박성현 | [Slides](Paper-PPT\Week7-PDB_ConvLSTM.pdf) |
-| 2019.04.04 | Generative Multi-Adversarial Network | 김용규 | [Slides](Paper-PPT\Week8-Generative_Multi-Adversarial_Network.pdf) |
-| 2019.04.04 | Text Style Transfer Cross Alignment | 박정수 | [Slides](Paper-PPT\Week8-Text_Style_Transfer_Cross_Alignment.pdf) |
+| 2019.01.14 | Brief Introduction to weakly supervision | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week1-Breif_introduction_to_weakly_supervision.pdf) |
+| 2019.01.14 | Class Activation Map Series | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week1-Class_Activation_Map_series.pdf) |
+| 2019.01.21 | MDNet | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week2-MDNet.pdf) |
+| 2019.01.21 | Object Detection | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week2-Object_Detection.pdf) |
+| 2019.01.28 | BiDAF | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week3-BiDAF.pdf) |
+| 2019.01.28 | DFNet | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week3-DFNet.pdf) |
+| 2019.02.11 | Universal Language Model Fine-tuning for Text Classification | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week4-Universal_Language_Model_Fine-tuning_for_Text_Classification.pdf) |
+| 2019.02.11 | VAE | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week4-VAE.pdf) |
+| 2019.02.19 | SAGAN | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week5-SAGAN.pdf) |
+| 2019.02.19 | Style Transfer | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week5-Style_Transfer.pdf) |
+| 2019.03.17 | CAVE | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week6-CVAE.pdf) |
+| 2019.03.17 | TADAM | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week6-TADAM.pdf) |
+| 2019.03.28 | PADA | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week7-PADA.pdf) |
+| 2019.03.28 | PDB ConvLSTM | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week7-PDB_ConvLSTM.pdf) |
+| 2019.04.04 | Generative Multi-Adversarial Network | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week8-Generative_Multi-Adversarial_Network.pdf) |
+| 2019.04.04 | Text Style Transfer Cross Alignment | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week8-Text_Style_Transfer_Cross_Alignment.pdf) |
 
 
 #### 참고자료 정리
