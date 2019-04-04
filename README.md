@@ -99,7 +99,7 @@
 
 
 
-##### Week-6 (2019.03.17)
+##### Week-7 (2019.03.28)
 * PADA (김강열)
 
   [Partial Adversarial Domain Adaptation (ECCV 2018)](https://arxiv.org/abs/1808.04205)
@@ -110,7 +110,7 @@
 
 
 
-##### Week-6 (2019.03.17)
+##### Week-8 (2019.04.04)
 * Generative Multi-Adversarial Network (김용규)
 
   [Generative Multi-Adversarial Network (ICLR 2017)](https://arxiv.org/abs/1611.01673)
