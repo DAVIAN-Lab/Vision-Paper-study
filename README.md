@@ -20,6 +20,8 @@
 | 2019.03.28 | PDB ConvLSTM | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week7-PDB_ConvLSTM.pdf) |
 | 2019.04.04 | Generative Multi-Adversarial Network | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week8-Generative_Multi-Adversarial_Network.pdf) |
 | 2019.04.04 | Text Style Transfer Cross Alignment | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week8-Text_Style_Transfer_Cross_Alignment.pdf) |
+| 2019.04.11 | Universal Style Transfer & GDWCT | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week9-Universal_StyleTransfer_GDWCT.pdf) |
+| 2019.04.11 | Social GAN | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week9-Social_GAN.pdf) |
 
 
 #### 참고자료 정리
@@ -118,3 +120,16 @@
 * Text Style Transfer Cross Alignment (박정수)
 
   [Style Transfer from Non-Parallel Text by Cross-Alignment (NIPS 2017)](https://arxiv.org/abs/1705.09655?context=cs)
+
+
+
+##### Week-9 (2019.04.11)
+* Universal Style Transfer & GDWCT (김강열)
+
+  [Universal Style Transfer via Feature Transforms (NIPS 2018)](https://arxiv.org/abs/1705.08086)
+
+  [Image-to-Image Translation via Group-wise Deep Whitening and Coloring Transformation (CVPR 2019)](https://arxiv.org/abs/1812.09912)
+
+* Social GAN (박성현)
+
+  [Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks (CVPR 2018)](https://github.com/agrimgupta92/sgan)
