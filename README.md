@@ -22,6 +22,18 @@
 | 2019.04.04 | Text Style Transfer Cross Alignment | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week8-Text_Style_Transfer_Cross_Alignment.pdf) |
 | 2019.04.11 | Universal Style Transfer & GDWCT | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week9-Universal_StyleTransfer_GDWCT.pdf) |
 | 2019.04.11 | Social GAN | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week9-Social_GAN.pdf) |
+| 2019.05.02 | Content Preserving Text Generation with Attribute Controls | 박정수 | [Slides]() |
+| 2019.05.02 | DLOW | 김용규 | [Slides]() |
+| 2019.05.09 | VQG for Unknown Objects | 박성현 | [Slides]() |
+| 2019.05.09 | InstaGAN | 김강열 | [Slides]() |
+| 2019.05.21 | Von Mises-Fisher Loss | 박정수 | [Slides]() |
+| 2019.05.21 | Learning Loss for Active Learning | 김용규 | [Slides]() |
+| 2019.06.04 | CP-VITON | 박성현 | [Slides]() |
+| 2019.06.04 | GDWCT | 김강열 | [Slides]() |
+| 2019.06.25 | BERT | 박정수 | [Slides]() |
+| 2019.06.25 | TransGAGA | 김용규 | [Slides]() |
+| 2019.07.18 | Self-supervised GAN | 박성현 | [Slides]() |
+| 2019.07.18 | Separate to Adapt | 김강열 | [Slides]() |
 
 
 #### 참고자료 정리
@@ -133,3 +145,70 @@
 * Social GAN (박성현)
 
   [Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks (CVPR 2018)](https://github.com/agrimgupta92/sgan)
+
+
+
+##### Week-10 (2019.05.02)
+* Content Preserving Text Generation with Attribute Controls (박정수)
+
+  [Content Preserving Text Generation with Attribute Controls (NIPS 2018)](https://arxiv.org/abs/1811.01135)
+
+* DLOW : Domain Flow for Adaptation and Generalization (김용규)
+
+  [DLOW : Domain Flow for Adaptation and Generalization (CVPR 2019 Oral)](https://arxiv.org/abs/1812.05418)
+
+
+
+##### Week-11 (2019.05.09)
+* VQG for Unknown Objects (박성현)
+
+  [Visual Question Generation for Class Acquisition of Unknown Objects (ECCV 2018)](https://arxiv.org/abs/1808.01821)
+
+* InstaGAN (김강열)
+
+  [InstaGAN: Instance-aware Image-to-Image Translation (ICLR 2019)](https://arxiv.org/abs/1812.10889)
+
+
+
+##### Week-12 (2019.05.21)
+* Von Mises-Fisher Loss (박정수)
+
+  [Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs (ICLR 2019)](https://arxiv.org/abs/1812.04616)
+
+* Learning Loss for Active Learning (김용규)
+
+  [Learning Loss for Active Learning (CVPR 2019)](https://arxiv.org/abs/1905.03677)
+
+
+
+##### Week-13 (2019.06.04)
+* CP-VITON (박성현)
+
+  [Toward Characteristic-Preserving Image-based Virtual Try-On Network (ECCV 2018)](https://arxiv.org/abs/1807.07688)
+
+* GDWCT (김강열)
+
+  [Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation (CVPR 2019 Oral)](https://arxiv.org/abs/1812.09912)
+
+
+
+##### Week-14 (2019.06.25)
+* BERT (박정수)
+
+  [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)](https://arxiv.org/abs/1810.04805)
+
+
+* TransGAGA (김용규)
+
+  [TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation (CVPR 2019)](https://arxiv.org/abs/1904.09571)
+
+
+
+##### Week-15 (2019.07.18)
+* Self-supervised GAN (박성현)
+
+  [Self-Supervised GANs via Auxiliary Rotation Loss (CVPR 2019)](https://arxiv.org/abs/1811.11212)
+
+* Separate to Adapt (김강열)
+
+  [Separate to Adapt: Open Set Domain Adaptation via Progressive Separation (CVPR 2019)](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Separate_to_Adapt_Open_Set_Domain_Adaptation_via_Progressive_Separation_CVPR_2019_paper.pdf)
