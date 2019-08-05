@@ -70,7 +70,7 @@
 ##### Week-3 (2019.01.28)
 * BiDAF (박성현)
 
-  [Bidirectional Attention Flow for Machine Comprehension (ICLR 2017 )](https://arxiv.org/abs/1611.01603)
+  [Bidirectional Attention Flow for Machine Comprehension (ICLR 2017)](https://arxiv.org/abs/1611.01603)
 
 * DFNet (김강열)
 
@@ -222,7 +222,7 @@
 ##### Week-15 (2019.07.25)
 * AET vs AED (박성현)
 
-  [AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data (CVPR 2019 Oral)](https://arxiv.org/abs/1901.04596)
+  [AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations (CVPR 2019 Oral)](https://arxiv.org/abs/1901.04596)
 
 * MSGAN (김용규)
 
