@@ -22,7 +22,7 @@
 | 2019.04.04 | Week08 | Text Style Transfer Cross Alignment | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week8-Text_Style_Transfer_Cross_Alignment.pdf) |
 | 2019.04.11 | Week09 | Universal Style Transfer & GDWCT | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week9-Universal_StyleTransfer_GDWCT.pdf) |
 | 2019.04.11 | Week09 | Social GAN | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week9-Social_GAN.pdf) |
-| 2019.05.02 | Week10 | Content Preserving Text Generation with Attribute Controls | 박정수 | [Slides]() |
+| 2019.05.02 | Week10 | Content Preserving Text Generation with Attribute Controls | 박정수 | [Slides]() X |
 | 2019.05.02 | Week10 | DLOW | 김용규 | [Slides]() |
 | 2019.05.09 | Week11 | VQG for Unknown Objects | 박성현 | [Slides]() |
 | 2019.05.09 | Week11 | InstaGAN | 김강열 | [Slides]() |
@@ -31,9 +31,13 @@
 | 2019.06.04 | Week13 | CP-VITON | 박성현 | [Slides]() |
 | 2019.06.04 | Week13 | GDWCT | 김강열 | [Slides]() |
 | 2019.06.25 | Week14 | BERT | 박정수 | [Slides]() |
-| 2019.06.25 | Week14 | TransGAGA | 김용규 | [Slides]() |
+| 2019.06.25 | Week14 | TransGAGA | 김용규 | [Slides]() X |
 | 2019.07.18 | Week15 | Self-supervised GAN | 박성현 | [Slides]() |
 | 2019.07.18 | Week15 | Separate to Adapt | 김강열 | [Slides]() |
+| 2019.07.25 | Week16 | AET vs AED | 박성현 | [Slides]() |
+| 2019.07.25 | Week16 | MSGAN | 김용규 | [Slides]() |
+| 2019.08.02 | Week17 | Anti-Aliasing CNN | 김강열 | [Slides]() |
+| 2019.08.02 | Week17 | Neural Discrete Representation Learning | 박정수 | [Slides]() |
 
 
 #### 참고자료 정리
@@ -212,3 +216,27 @@
 * Separate to Adapt (김강열)
 
   [Separate to Adapt: Open Set Domain Adaptation via Progressive Separation (CVPR 2019)](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Separate_to_Adapt_Open_Set_Domain_Adaptation_via_Progressive_Separation_CVPR_2019_paper.pdf)
+
+
+
+##### Week-15 (2019.07.25)
+* AET vs AED (박성현)
+
+  [AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data (CVPR 2019 Oral)](https://arxiv.org/abs/1901.04596)
+
+* MSGAN (김용규)
+
+  [Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis (CVPR 2019)](https://arxiv.org/abs/1903.05628)
+
+
+
+##### Week-15 (2019.08.02)
+* Anti-Aliasing CNN (김강열)
+
+  [Making Convolutional Networks Shift-Invariant Again (ICML 2019)](https://arxiv.org/abs/1904.11486)
+
+* Neural Discrete Representation Learning (박정수)
+
+  [Neural Discrete Representation Learning (NIPS 2017)](https://arxiv.org/abs/1711.00937)
+
+  [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446)
