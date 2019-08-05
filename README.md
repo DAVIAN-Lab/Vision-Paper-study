@@ -4,40 +4,40 @@
 
 |       Date       | Week | Topic | Presenters | Slides |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
-| 2019.01.14 | Week01 | Brief Introduction to weakly supervision | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week1-Breif_introduction_to_weakly_supervision.pdf) |
-| 2019.01.14 | Week01 | Class Activation Map Series | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week1-Class_Activation_Map_series.pdf) |
-| 2019.01.21 | Week02 | MDNet | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week2-MDNet.pdf) |
-| 2019.01.21 | Week02 | Object Detection | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week2-Object_Detection.pdf) |
-| 2019.01.28 | Week03 | BiDAF | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week3-BiDAF.pdf) |
-| 2019.01.28 | Week03 | DFNet | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week3-DFNet.pdf) |
-| 2019.02.11 | Week04 | Universal Language Model Fine-tuning for Text Classification | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week4-Universal_Language_Model_Fine-tuning_for_Text_Classification.pdf) |
-| 2019.02.11 | Week04 | VAE | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week4-VAE.pdf) |
-| 2019.02.19 | Week05 | SAGAN | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week5-SAGAN.pdf) |
-| 2019.02.19 | Week05 | Style Transfer | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week5-Style_Transfer.pdf) |
-| 2019.03.17 | Week06 | CAVE | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week6-CVAE.pdf) |
-| 2019.03.17 | Week06 | TADAM | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week6-TADAM.pdf) |
-| 2019.03.28 | Week07 | PADA | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week7-PADA.pdf) |
-| 2019.03.28 | Week07 | PDB ConvLSTM | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week7-PDB_ConvLSTM.pdf) |
-| 2019.04.04 | Week08 | Generative Multi-Adversarial Network | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week8-Generative_Multi-Adversarial_Network.pdf) |
-| 2019.04.04 | Week08 | Text Style Transfer Cross Alignment | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week8-Text_Style_Transfer_Cross_Alignment.pdf) |
-| 2019.04.11 | Week09 | Universal Style Transfer & GDWCT | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week9-Universal_StyleTransfer_GDWCT.pdf) |
-| 2019.04.11 | Week09 | Social GAN | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week9-Social_GAN.pdf) |
+| 2019.01.14 | Week01 | Brief Introduction to weakly supervision | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week01-Breif_introduction_to_weakly_supervision.pdf) |
+| 2019.01.14 | Week01 | Class Activation Map Series | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week01-Class_Activation_Map_series.pdf) |
+| 2019.01.21 | Week02 | MDNet | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week02-MDNet.pdf) |
+| 2019.01.21 | Week02 | Object Detection | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week02-Object_Detection.pdf) |
+| 2019.01.28 | Week03 | BiDAF | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week03-BiDAF.pdf) |
+| 2019.01.28 | Week03 | DFNet | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week03-DFNet.pdf) |
+| 2019.02.11 | Week04 | Universal Language Model Fine-tuning for Text Classification | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week04-Universal_Language_Model_Fine-tuning_for_Text_Classification.pdf) |
+| 2019.02.11 | Week04 | VAE | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week04-VAE.pdf) |
+| 2019.02.19 | Week05 | SAGAN | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week05-SAGAN.pdf) |
+| 2019.02.19 | Week05 | Style Transfer | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week05-Style_Transfer.pdf) |
+| 2019.03.17 | Week06 | CAVE | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week06-CVAE.pdf) |
+| 2019.03.17 | Week06 | TADAM | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week06-TADAM.pdf) |
+| 2019.03.28 | Week07 | PADA | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week07-PADA.pdf) |
+| 2019.03.28 | Week07 | PDB ConvLSTM | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week07-PDB_ConvLSTM.pdf) |
+| 2019.04.04 | Week08 | Generative Multi-Adversarial Network | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week08-Generative_Multi-Adversarial_Network.pdf) |
+| 2019.04.04 | Week08 | Text Style Transfer Cross Alignment | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week08-Text_Style_Transfer_Cross_Alignment.pdf) |
+| 2019.04.11 | Week09 | Universal Style Transfer & GDWCT | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week09-Universal_StyleTransfer_GDWCT.pdf) |
+| 2019.04.11 | Week09 | Social GAN | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week09-Social_GAN.pdf) |
 | 2019.05.02 | Week10 | Content Preserving Text Generation with Attribute Controls | 박정수 | [Slides]() X |
-| 2019.05.02 | Week10 | DLOW | 김용규 | [Slides]() |
-| 2019.05.09 | Week11 | VQG for Unknown Objects | 박성현 | [Slides]() |
-| 2019.05.09 | Week11 | InstaGAN | 김강열 | [Slides]() |
-| 2019.05.21 | Week12 | Von Mises-Fisher Loss | 박정수 | [Slides]() |
-| 2019.05.21 | Week12 | Learning Loss for Active Learning | 김용규 | [Slides]() |
-| 2019.06.04 | Week13 | CP-VITON | 박성현 | [Slides]() |
-| 2019.06.04 | Week13 | GDWCT | 김강열 | [Slides]() |
-| 2019.06.25 | Week14 | BERT | 박정수 | [Slides]() |
+| 2019.05.02 | Week10 | DLOW | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week10-DLOW.pdf) |
+| 2019.05.09 | Week11 | VQG for Unknown Objects | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week11-VQG_for_Unknown_Object.pdf) |
+| 2019.05.09 | Week11 | InstaGAN | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week11-InstaGAN.pdf) |
+| 2019.05.21 | Week12 | Von Mises-Fisher Loss | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week12-Von_Mises-Fisher_Loss.pdf) |
+| 2019.05.21 | Week12 | Learning Loss for Active Learning | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week12-Learning_Loss_for_Active_Learning.pdf) |
+| 2019.06.04 | Week13 | CP-VITON | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week13-CP-VITON.pdf) |
+| 2019.06.04 | Week13 | GDWCT | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week13-GDWCT.pdf) |
+| 2019.06.25 | Week14 | BERT | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week14-BERT.pdf) |
 | 2019.06.25 | Week14 | TransGAGA | 김용규 | [Slides]() X |
-| 2019.07.18 | Week15 | Self-supervised GAN | 박성현 | [Slides]() |
-| 2019.07.18 | Week15 | Separate to Adapt | 김강열 | [Slides]() |
-| 2019.07.25 | Week16 | AET vs AED | 박성현 | [Slides]() |
-| 2019.07.25 | Week16 | MSGAN | 김용규 | [Slides]() |
-| 2019.08.02 | Week17 | Anti-Aliasing CNN | 김강열 | [Slides]() |
-| 2019.08.02 | Week17 | Neural Discrete Representation Learning | 박정수 | [Slides]() |
+| 2019.07.18 | Week15 | Self-supervised GAN | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week15-Self-supervised_GAN.pdf) |
+| 2019.07.18 | Week15 | Separate to Adapt | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week15-SAN.pdf) |
+| 2019.07.25 | Week16 | AET vs AED | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week16-AETvsAED.pdf) |
+| 2019.07.25 | Week16 | MSGAN | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week16-MSGAN.pdf) |
+| 2019.08.02 | Week17 | Anti-Aliasing CNN | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week17-Anti_aliasing_CNN.pdf) |
+| 2019.08.02 | Week17 | Neural Discrete Representation Learning | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week17-Neural_Discrete_Representation_Learning.pdf) |
 
 
 #### 참고자료 정리
