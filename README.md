@@ -38,6 +38,10 @@
 | 2019.07.25 | Week16 | MSGAN | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week16-MSGAN.pdf) |
 | 2019.08.02 | Week17 | Anti-Aliasing CNN | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week17-Anti_aliasing_CNN.pdf) |
 | 2019.08.02 | Week17 | Neural Discrete Representation Learning | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week17-Neural_Discrete_Representation_Learning.pdf) |
+| 2019.08.09 | Week18 | Unsupervised Part-Based of Object Shape and Appearance | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
+| 2019.08.09 | Week18 | Y-Autoencoders | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
+| 2019.08.16 | Week19 | dSNE | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
+| 2019.08.16 | Week19 | Theory and Experiments on VQ Autoencoders | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
 
 
 #### 참고자료 정리
@@ -219,7 +223,7 @@
 
 
 
-##### Week-15 (2019.07.25)
+##### Week-16 (2019.07.25)
 * AET vs AED (박성현)
 
   [AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations (CVPR 2019 Oral)](https://arxiv.org/abs/1901.04596)
@@ -230,7 +234,7 @@
 
 
 
-##### Week-15 (2019.08.02)
+##### Week-17 (2019.08.02)
 * Anti-Aliasing CNN (김강열)
 
   [Making Convolutional Networks Shift-Invariant Again (ICML 2019)](https://arxiv.org/abs/1904.11486)
@@ -240,3 +244,25 @@
   [Neural Discrete Representation Learning (NIPS 2017)](https://arxiv.org/abs/1711.00937)
 
   [Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446)
+
+
+
+##### Week-18 (2019.08.09)
+* Unsupervised Part-Based of Object Shape and Appearance (박성현)
+
+  [Unsupervised Part-Based of Object Shape and Appearance (CVPR 2019 Oral)](https://arxiv.org/abs/1903.06946)
+
+* Y-Autoencoders (김용규)
+
+  [Y-Autoencoders: disentangling latent representations via sequential encoding](https://arxiv.org/abs/1907.10949)
+
+
+
+##### Week-18 (2019.08.09)
+* dSNE (김강열)
+
+  [d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding (CVPR 2019)](https://arxiv.org/abs/1905.12775)
+
+* Theory and Experiments on VQ Autoencoders (박정수)
+
+  [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
