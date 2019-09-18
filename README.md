@@ -22,7 +22,7 @@
 | 2019.04.04 | Week08 | Text Style Transfer Cross Alignment | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week08-Text_Style_Transfer_Cross_Alignment.pdf) |
 | 2019.04.11 | Week09 | Universal Style Transfer & GDWCT | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week09-Universal_StyleTransfer_GDWCT.pdf) |
 | 2019.04.11 | Week09 | Social GAN | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week09-Social_GAN.pdf) |
-| 2019.05.02 | Week10 | Content Preserving Text Generation with Attribute Controls | 박정수 | [Slides]() X |
+| 2019.05.02 | Week10 | Content Preserving Text Generation with Attribute Controls | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week10-Content_Preserving_Text_Generation_with_Attribute_Controls.pdf) |
 | 2019.05.02 | Week10 | DLOW | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week10-DLOW.pdf) |
 | 2019.05.09 | Week11 | VQG for Unknown Objects | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week11-VQG_for_Unknown_Object.pdf) |
 | 2019.05.09 | Week11 | InstaGAN | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week11-InstaGAN.pdf) |
@@ -31,17 +31,21 @@
 | 2019.06.04 | Week13 | CP-VITON | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week13-CP-VITON.pdf) |
 | 2019.06.04 | Week13 | GDWCT | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week13-GDWCT.pdf) |
 | 2019.06.25 | Week14 | BERT | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week14-BERT.pdf) |
-| 2019.06.25 | Week14 | TransGAGA | 김용규 | [Slides]() X |
+| 2019.06.25 | Week14 | TransGAGA | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week14-TransGAGA.pdf) |
 | 2019.07.18 | Week15 | Self-supervised GAN | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week15-Self-supervised_GAN.pdf) |
 | 2019.07.18 | Week15 | Separate to Adapt | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week15-SAN.pdf) |
 | 2019.07.25 | Week16 | AET vs AED | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week16-AETvsAED.pdf) |
 | 2019.07.25 | Week16 | MSGAN | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week16-MSGAN.pdf) |
 | 2019.08.02 | Week17 | Anti-Aliasing CNN | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week17-Anti_aliasing_CNN.pdf) |
 | 2019.08.02 | Week17 | Neural Discrete Representation Learning | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week17-Neural_Discrete_Representation_Learning.pdf) |
-| 2019.08.09 | Week18 | Unsupervised Part-Based of Object Shape and Appearance | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
-| 2019.08.09 | Week18 | Y-Autoencoders | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
-| 2019.08.16 | Week19 | dSNE | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
-| 2019.08.16 | Week19 | Theory and Experiments on VQ Autoencoders | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
+| 2019.08.09 | Week18 | Unsupervised Part-Based of Object Shape and Appearance | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week18-Unsupervised_Part-based_Disentangling_of_Object_Shape_and_Appearance.pdf) |
+| 2019.08.09 | Week18 | Y-Autoencoders | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week18-Y-Autoencoders.pdf) |
+| 2019.08.16 | Week19 | dSNE | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week19-dSNE.pdf) |
+| 2019.08.16 | Week19 | Theory and Experiments on VQ Autoencoders | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week19-Theory_and_Experiment_on_VQ_Autoencoders.pdf) |
+| 2019.09.03 | Week20 | DDPAE | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week20-DDPAE.pdf) |
+| 2019.09.03 | Week20 | FineGAN | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week20-FineGAN.pdf) |
+| 2019.09.18 | Week21 | ELEGANT | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week21-ELEGANT.pdf) |
+| 2019.09.18 | Week21 | Robust NMT | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week21-Robust_Neural_Machine_Translation_with_Doubly_Adversarial_Inputs.pdf) |
 
 
 #### 참고자료 정리
@@ -258,7 +262,7 @@
 
 
 
-##### Week-18 (2019.08.09)
+##### Week-19 (2019.08.16)
 * dSNE (김강열)
 
   [d-SNE: Domain Adaptation using Stochastic Neighborhood Embedding (CVPR 2019)](https://arxiv.org/abs/1905.12775)
@@ -266,3 +270,25 @@
 * Theory and Experiments on VQ Autoencoders (박정수)
 
   [Theory and Experiments on Vector Quantized Autoencoders](https://arxiv.org/abs/1805.11063)
+
+
+
+##### Week-20 (2019.09.03)
+* DDPAE (박성현)
+
+  [Learning to Decompose and Disentangle Representations for Video Prediction (NIPS 2018)](https://arxiv.org/abs/1806.04166)
+
+* FineGAN (김용규)
+
+  [FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery (CVPR 2019)](https://arxiv.org/abs/1811.11155)
+
+
+
+##### Week-21 (2019.09.18)
+* ELEGANT (김강열)
+
+  [ELEGANT: Exchanging Latent Encodings with GAN for Transferring Multiple Face Attributes (ECCV 2018)](https://arxiv.org/abs/1803.10562)
+
+* Robust NMT (박정수)
+
+  [Robust Neural Machine Translation with Doubly Adversarial Inputs](https://arxiv.org/abs/1906.02443)
