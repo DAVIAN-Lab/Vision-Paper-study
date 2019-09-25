@@ -46,6 +46,9 @@
 | 2019.09.03 | Week20 | FineGAN | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week20-FineGAN.pdf) |
 | 2019.09.18 | Week21 | ELEGANT | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week21-ELEGANT.pdf) |
 | 2019.09.18 | Week21 | Robust NMT | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week21-Robust_Neural_Machine_Translation_with_Doubly_Adversarial_Inputs.pdf) |
+| 2019.09.24 | Week22 | WarpGAN | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week22-WarpGAN.pdf) |
+| 2019.09.24 | Week22 | Image Generation from Layout | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week22-Image_Generation_from_Layout.pdf) |
+
 
 
 #### 참고자료 정리
@@ -292,3 +295,14 @@
 * Robust NMT (박정수)
 
   [Robust Neural Machine Translation with Doubly Adversarial Inputs](https://arxiv.org/abs/1906.02443)
+
+
+
+##### Week-22 (2019.09.24)
+* WarpGAN (박성현)
+
+  [WarpGAN: Automatic Caricature Generation (CVPR 2019 Oral)](https://arxiv.org/abs/1811.10100)
+
+* Image Generation from Layout (김용규)
+
+  [Image Generation from Layout (CVPR 2019 Oral)](https://arxiv.org/abs/1811.11389)
