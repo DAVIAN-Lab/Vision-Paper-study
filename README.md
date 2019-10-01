@@ -48,6 +48,8 @@
 | 2019.09.18 | Week21 | Robust NMT | 박정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week21-Robust_Neural_Machine_Translation_with_Doubly_Adversarial_Inputs.pdf) |
 | 2019.09.24 | Week22 | WarpGAN | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week22-WarpGAN.pdf) |
 | 2019.09.24 | Week22 | Image Generation from Layout | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week22-Image_Generation_from_Layout.pdf) |
+| 2019.10.01 | Week23 | Robust Inference via Generative Classifiers for Handling Noisy Labels  | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week23-RoG.pdf) |
+| 2019.10.01 | Week23 | Weakly Supervised Semantic Segmentation | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week23-weakly_supervised_semantic_segmentation.pdf) |
 
 
 
@@ -306,3 +308,18 @@
 * Image Generation from Layout (김용규)
 
   [Image Generation from Layout (CVPR 2019 Oral)](https://arxiv.org/abs/1811.11389)
+
+
+
+  | 2019.09.24 | Week23 | Robust Inference via Generative Classifiers for Handling Noisy Labels  | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week23-RoG.pdf) |
+  | 2019.09.24 | Week23 | Weakly Supervised Semantic Segmentation | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week23-weakly_supervised_semantic_segmentation.pdf) |
+
+
+##### Week-23 (2019.10.01)
+* Robust Inference via Generative Classifiers for Handling Noisy Labels (김강열)
+
+  [Robust Inference via Generative Classifiers for Handling Noisy Labels (ICML 2019)](https://arxiv.org/abs/1901.11300)
+
+* Weakly Supervised Semantic Segmentation (이준수)
+
+  [Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation (CVPR 2018)](https://arxiv.org/abs/1803.10464)
