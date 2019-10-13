@@ -50,6 +50,8 @@
 | 2019.09.24 | Week22 | Image Generation from Layout | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week22-Image_Generation_from_Layout.pdf) |
 | 2019.10.01 | Week23 | Robust Inference via Generative Classifiers for Handling Noisy Labels  | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week23-RoG.pdf) |
 | 2019.10.01 | Week23 | Weakly Supervised Semantic Segmentation | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week23-weakly_supervised_semantic_segmentation.pdf) |
+| 2019.10.08 | Week24 | Colorful Image Colorization  | 이정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week24-Colorful_Image_Colorization.pdf) |
+| 2019.10.08 | Week24 | Learning Hierarchical Features | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week24-Learning_Hierarchical_Features.pdf) |
 
 
 
@@ -311,10 +313,6 @@
 
 
 
-  | 2019.09.24 | Week23 | Robust Inference via Generative Classifiers for Handling Noisy Labels  | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week23-RoG.pdf) |
-  | 2019.09.24 | Week23 | Weakly Supervised Semantic Segmentation | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week23-weakly_supervised_semantic_segmentation.pdf) |
-
-
 ##### Week-23 (2019.10.01)
 * Robust Inference via Generative Classifiers for Handling Noisy Labels (김강열)
 
@@ -323,3 +321,14 @@
 * Weakly Supervised Semantic Segmentation (이준수)
 
   [Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation (CVPR 2018)](https://arxiv.org/abs/1803.10464)
+
+
+
+##### Week-24 (2019.10.08)
+* Colorful Image Colorization (이정수)
+
+  [Colorful Image Colorization (ECCV 2016)](https://arxiv.org/abs/1603.08511)
+
+* Learning Hierarchical Features (김응엽)
+
+  [Learning Hierarchical Features from Generative Models (ICML 2017)](https://arxiv.org/abs/1702.08396)
