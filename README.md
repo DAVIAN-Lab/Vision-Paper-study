@@ -52,6 +52,11 @@
 | 2019.10.01 | Week23 | Weakly Supervised Semantic Segmentation | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week23-weakly_supervised_semantic_segmentation.pdf) |
 | 2019.10.08 | Week24 | Colorful Image Colorization  | 이정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week24-Colorful_Image_Colorization.pdf) |
 | 2019.10.08 | Week24 | Learning Hierarchical Features | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week24-Learning_Hierarchical_Features.pdf) |
+| 2019.10.15 | Week25 | WUTON | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week25-WUTON.pdf) |
+| 2019.10.15 | Week25 | Gradient Matching Generative Networks for Zero-Shot Learning | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week25-Gradient_Matching_Generative_Networks_for_Zero-shot_Learning.pdf) |
+| 2019.11.19 | Week26 | OOD Detection | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week26-OOD_Detection.pdf) |
+| 2019.11.26 | Week27 | Attention is all you need | 이정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week27-Attention_is_all_you_need.pdf) |
+| 2019.11.26 | Week27 | Knowing When to Look | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week27-Visual_Sentinel.pdf) |
 
 
 
@@ -332,3 +337,38 @@
 * Learning Hierarchical Features (김응엽)
 
   [Learning Hierarchical Features from Generative Models (ICML 2017)](https://arxiv.org/abs/1702.08396)
+
+
+
+##### Week-25 (2019.10.15)
+* WUTON (박성현)
+
+  [End-to-End Learning of Geometric Deformations of Feature Maps for Virtual Try-On](https://arxiv.org/abs/1906.01347)
+
+* Gradient Matching Generative Networks for Zero-Shot Learning (김용규)
+
+  [Gradient Matching Generative Networks for Zero-Shot Learning (CVPR 2019 Oral](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sariyildiz_Gradient_Matching_Generative_Networks_for_Zero-Shot_Learning_CVPR_2019_paper.pdf)
+
+
+
+##### Week-26 (2019.11.19)
+* OOD Detection (김강열)
+
+  [A baseline for detecting misclassified and out-of-distribution examples in neural networks (ICLR 2017)](https://arxiv.org/abs/1610.02136)
+
+  [Enhancing the Reliability of Out-of-Distribution Image Detection in Neural Networks (ICLR 2018)](https://arxiv.org/abs/1706.02690)
+
+  [Learning Confidence for Out-of-Distribution in Neural Networks](https://arxiv.org/abs/1802.04865)
+
+  [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks (NIPS 2018)](https://arxiv.org/abs/1807.03888)
+
+
+
+##### Week-27 (2019.11.26)
+* Attention is all you need (이정수)
+
+  [Attention is all you need (NIPS 2017)](https://arxiv.org/abs/1706.03762)
+
+* Knowing When to Look (이준수)
+
+  [KnowingWhen to Look: AdaptiveAttention via aVisual Sentinel for Image Captioning (CVPR 2017)](https://arxiv.org/abs/1612.01887)
