@@ -1,5 +1,18 @@
 # Paper-Study
 
+#### 스터디 참여자
+- 박성현 - 2019.01.14 ~ Present (Davian 연구실 석사과정)
+- 김강열 - 2019.01.14 ~ Present (Davian 연구실 석사과정)
+- 김용규 - 2019.01.14 ~ Present (Davian 연구실 석사과정)
+- 박정수 - 2019.01.14 ~ 2019.09.18 (고려대 강재우 교수님 연구실 석박과정)
+- 김응엽 - 2019.09.24 ~ Present (Davian 연구실 석사과정)
+- 이준수 - 2019.09.24 ~ Present (Davian 연구실 석사과정)
+- 이정수 - 2019.09.24 ~ 2019.12.23 (Davian 연구실 석사과정)
+- 조원웅 - 2019.12.24 ~ Present (Davian 연구실 석사과정)
+- 조영우 - 2020.01.07 ~ Present (Davian 연구실 석박과정)
+- 최승환 - 2020.01.07 ~ Present (Davian 연구실 석사과정)
+
+
 #### 발표자료 정리
 
 |       Date       | Week | Topic | Presenters | Slides |
@@ -57,6 +70,9 @@
 | 2019.11.19 | Week26 | OOD Detection | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week26-OOD_Detection.pdf) |
 | 2019.11.26 | Week27 | Attention is all you need | 이정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week27-Attention_is_all_you_need.pdf) |
 | 2019.11.26 | Week27 | Knowing When to Look | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week27-Visual_Sentinel.pdf) |
+| 2019.12.03 | Week28 | When Does Label Smoothing help? | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week28-when_does_label_smoothing_help.pdf) |
+| 2019.12.23 | Week29 | Rethinking Feature Distribution for Loss Functions | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week29-Rethinking_Feature_Distribution.pdf) |
+| 2019.12.23 | Week29 | StyleGAN2 | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week29-StyleGAN2.pdf) |
 
 
 
@@ -372,3 +388,26 @@
 * Knowing When to Look (이준수)
 
   [KnowingWhen to Look: AdaptiveAttention via aVisual Sentinel for Image Captioning (CVPR 2017)](https://arxiv.org/abs/1612.01887)
+
+  | 2019.12.03 | Week28 | When Does Label Smoothing help? | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
+  | 2019.12.23 | Week29 | Rethinking Feature Distribution for Loss Functions | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
+  | 2019.12.23 | Week29 | StyleGAN2 | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
+
+
+##### Week-28 (2019.12.03)
+* When Does Label Smoothing help? (김응엽)
+
+  [When Does Label Smoothing help? (NIPS 2019 Oral)](https://arxiv.org/abs/1906.02629)
+
+
+
+##### Week-29 (2019.12.23)
+* Rethinking Feature Distribution for Loss Functions (김강열)
+
+  [Rethinking Feature Distribution for Loss Functions in Image Classification (CVPR 2018)](https://arxiv.org/abs/1803.02988)
+
+* StyleGAN2 (박성현)
+
+  [A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019)](https://arxiv.org/abs/1812.04948)
+
+  [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
