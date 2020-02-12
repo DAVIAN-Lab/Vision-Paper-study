@@ -11,6 +11,8 @@
 - 조원웅 - 2019.12.24 ~ Present (Davian 연구실 석사과정)
 - 조영우 - 2020.01.07 ~ Present (Davian 연구실 석박과정)
 - 최승환 - 2020.01.07 ~ Present (Davian 연구실 석사과정)
+- 이상현 - 2020.02.04 ~ Present (Davian 연구실 석사과정)
+- 최성하 - 2020.02.11 ~ Present (Davian 연구실 박사과정)
 
 
 #### 발표자료 정리
@@ -73,6 +75,15 @@
 | 2019.12.03 | Week28 | When Does Label Smoothing help? | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week28-when_does_label_smoothing_help.pdf) |
 | 2019.12.23 | Week29 | Rethinking Feature Distribution for Loss Functions | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week29-Rethinking_Feature_Distribution.pdf) |
 | 2019.12.23 | Week29 | StyleGAN2 | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week29-StyleGAN2.pdf) |
+| 2020.01.09 | Week30 | Real or not real, that is the question | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week30-Real_or_not_real_that_is_the_question.pdf) |
+| 2020.01.09 | Week30 | Video Re-targeting | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week30-Video_Retargeting.pdf) |
+| 2020.01.21 | Week31 | Mining GOLD Samples for Conditional GANs | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week31-Mining_GOLD_Samples_for_Conditional_GANs.pdf) |
+| 2020.01.21 | Week31 | Memory Replay GANs | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week31-MeRGANs.pdf) |
+| 2020.01.28 | Week32 | Generating High-Resolution Fashion Model Images| 최승환 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week32-Generating_High-Resolution_Fashion_Model_Images_Wearing_Custom_Outfits.pdf) |
+| 2020.01.28 | Week32 | Seeing through the Human Reporting Bias | 조원웅 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week32-Seeing_through_the_Human_Reporting_Bias.pdf) |
+| 2020.02.04 | Week33 | Recurrent Models of Visual Attention | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week33-Recurrent_Models_of_Visual_Attention.pdf) |
+| 2020.02.04 | Week33 | StarGAN-v2 | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week33-StarGAN-v2.pdf) |
+| 2020.02.11 | Week34 | Latent ODEs | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week34-Latent-ODEs.pdf) |
 
 
 
@@ -389,9 +400,6 @@
 
   [KnowingWhen to Look: AdaptiveAttention via aVisual Sentinel for Image Captioning (CVPR 2017)](https://arxiv.org/abs/1612.01887)
 
-  | 2019.12.03 | Week28 | When Does Label Smoothing help? | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
-  | 2019.12.23 | Week29 | Rethinking Feature Distribution for Loss Functions | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
-  | 2019.12.23 | Week29 | StyleGAN2 | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
 
 
 ##### Week-28 (2019.12.03)
@@ -411,3 +419,56 @@
   [A Style-Based Generator Architecture for Generative Adversarial Networks (CVPR 2019)](https://arxiv.org/abs/1812.04948)
 
   [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)
+
+
+
+##### Week-30 (2020.01.09)
+* Real or not real, that is the question (조영우)
+
+  [Real or not real, that is the question (ICLR 2020 Spotlight)](https://openreview.net/pdf?id=B1lPaCNtPB)
+
+* Video Re-targeting (이준수)
+
+  [Animating Arbitrary Objects via Deep Motion Transfer (CVPR 2019)](https://arxiv.org/abs/1812.08861)
+
+
+
+##### Week-31 (2020.01.21)
+* Mining GOLD Samples for Conditional GANs (김용규)
+
+  [Mining GOLD Samples for Conditional GANs (NIPS 2019)](https://arxiv.org/abs/1910.09170)
+
+* Memory Replay GANs (김응엽)
+
+  [Memory Replay GANs: learning to generate images from new categories without forgetting (NIPS 2018)](https://arxiv.org/abs/1809.02058)
+
+
+
+##### Week-32 (2020.01.28)
+* Generating High-Resolution Fashion Model Images (최승환)
+
+  [Generating High-Resolution Fashion Model Images Wearing Custom Outfits (ICCV 2019 Workshop)](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Yildirim_Generating_High-Resolution_Fashion_Model_Images_Wearing_Custom_Outfits_ICCVW_2019_paper.html)
+
+* Seeing through the Human Reporting Bias (조원웅)
+
+  [Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels (CVPR 2016)](https://arxiv.org/abs/1512.06974)
+
+
+
+##### Week-33 (2020.02.04)
+* Recurrent Models of Visual Attention (이상현)
+
+  [Recurrent Models of Visual Attention (NIPS 2014)](https://arxiv.org/abs/1406.6247)
+
+* StarGAN-v2 (김강열)
+
+  [StarGAN v2: Diverse Image Synthesis for Multiple Domains (Arxiv)](https://arxiv.org/abs/1912.01865)
+
+
+
+##### Week-34 (2020.02.11)
+* Latent ODEs (박성현)
+
+  [Neural Ordinary Differential Equations (NIPS 2018 Best Paper)](https://arxiv.org/abs/1806.07366)
+
+  [Latent ODEs for Irregularly-Sampled Time Series (NIPS 2019)](https://arxiv.org/abs/1907.03907)
