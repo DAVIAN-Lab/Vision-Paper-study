@@ -1,18 +1,21 @@
 # Paper-Study
 
-#### 스터디 참여자
+#### 스터디 참여자 (Current)
 - 박성현 - 2019.01.14 ~ Present (Davian 연구실 석사과정)
 - 김강열 - 2019.01.14 ~ Present (Davian 연구실 석사과정)
 - 김용규 - 2019.01.14 ~ Present (Davian 연구실 석사과정)
-- 박정수 - 2019.01.14 ~ 2019.09.18 (고려대 강재우 교수님 연구실 석박과정)
 - 김응엽 - 2019.09.24 ~ Present (Davian 연구실 석사과정)
 - 이준수 - 2019.09.24 ~ Present (Davian 연구실 석사과정)
-- 이정수 - 2019.09.24 ~ 2019.12.23 (Davian 연구실 석사과정)
-- 조원웅 - 2019.12.24 ~ Present (Davian 연구실 석사과정)
 - 조영우 - 2020.01.07 ~ Present (Davian 연구실 석박과정)
-- 최승환 - 2020.01.07 ~ Present (Davian 연구실 석사과정)
 - 이상현 - 2020.02.04 ~ Present (Davian 연구실 석사과정)
-- 최성하 - 2020.02.11 ~ Present (Davian 연구실 박사과정)
+
+
+#### 스터디 참여자 (Past)
+- 박정수 - 2019.01.14 ~ 2019.09.18 (고려대 강재우 교수님 연구실 석박과정)
+- 이정수 - 2019.09.24 ~ 2019.12.23 (Davian 연구실 석사과정)
+- 조원웅 - 2019.12.24 ~ 2020.03.18 (Davian 연구실 석사과정)
+- 최승환 - 2020.01.07 ~ 2020.03.18 (Davian 연구실 석사과정)
+- 최성하 - 2020.02.11 ~ 2020.03.18 (Davian 연구실 박사과정)
 
 
 #### 발표자료 정리
@@ -84,6 +87,13 @@
 | 2020.02.04 | Week33 | Recurrent Models of Visual Attention | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week33-Recurrent_Models_of_Visual_Attention.pdf) |
 | 2020.02.04 | Week33 | StarGAN-v2 | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week33-StarGAN-v2.pdf) |
 | 2020.02.11 | Week34 | Latent ODEs | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week34-Latent-ODEs.pdf) |
+| 2020.02.18 | Week35 | GANalyze | 조원웅 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week35-GANalyze.pdf) |
+| 2020.02.18 | Week35 | Self-supervised learning of a facial attribute | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week35-self_attribute_embedding.pdf) |
+| 2020.02.25 | Week36 | Learning Joint 2D-3D Representations | 최성하 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week36-Depth_completion.pdf) |
+| 2020.03.03 | Week37 | On the Relationship between SA and Conv | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week37-Relationship_between_self_attention_and_convolutional_layers.pdf) |
+| 2020.03.03 | Week37 | The sound of pixels | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week37-The_sound_of_Pixels.pdf) |
+| 2020.03.10 | Week38 | Detecting Photoshopped Faces | 최승환 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week38-Detecting_Photoshopped_Faces_by_Scripting_Photoshop.pdf) |
+| 2020.03.10 | Week38 | Stand-Alone Self-Attention | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week38-Stand_Alone.pdf) |
 
 
 
@@ -462,7 +472,7 @@
 
 * StarGAN-v2 (김강열)
 
-  [StarGAN v2: Diverse Image Synthesis for Multiple Domains (Arxiv)](https://arxiv.org/abs/1912.01865)
+  [StarGAN v2: Diverse Image Synthesis for Multiple Domains (CVPR 2020)](https://arxiv.org/abs/1912.01865)
 
 
 
@@ -472,3 +482,43 @@
   [Neural Ordinary Differential Equations (NIPS 2018 Best Paper)](https://arxiv.org/abs/1806.07366)
 
   [Latent ODEs for Irregularly-Sampled Time Series (NIPS 2019)](https://arxiv.org/abs/1907.03907)
+
+
+
+##### Week-35 (2020.02.18)
+* GANalyze (조원웅)
+
+  [GANalyze: Toward Visual Definitions of Cognitive Image Properties (ICCV 2019)](https://arxiv.org/abs/1906.10112)
+
+* Self-supervised learning of a facial attribute (이준수)
+
+  [Self-supervised learning of a facial attribute embedding from video (BMVC 2018 Oral)](https://arxiv.org/abs/1808.06882)
+
+
+
+##### Week-36 (2020.02.25)
+* Learning Joint 2D-3D Representations (최성하)
+
+  [Learning Joint 2D-3D Representations for Depth Completion (ICCV 2019)](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Learning_Joint_2D-3D_Representations_for_Depth_Completion_ICCV_2019_paper.pdf)
+
+
+
+##### Week-37 (2020.03.03)
+* On the Relationship between SA and Conv (김응엽)
+
+  [On the Relationship between Self-Attention and Convolutional Layers (ICLR 2020)](https://arxiv.org/abs/1911.03584)
+
+* The sound of pixels (조영우)
+
+  [The Sound of Pixels (ECCV 2018)](https://arxiv.org/abs/1804.03160)
+
+
+
+##### Week-38 (2020.03.10)
+* Detecting Photoshopped Faces (최승환)
+
+  [Detecting Photoshopped Faces by Scripting Photoshop (ICCV 2019)](https://arxiv.org/abs/1906.05856)
+
+* Stand-Alone Self-Attention (이상현)
+
+  [Stand-Alone Self-Attention in Vision Models (NIPS 2019)](https://arxiv.org/abs/1906.05909)
