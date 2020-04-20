@@ -94,6 +94,14 @@
 | 2020.03.03 | Week37 | The sound of pixels | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week37-The_sound_of_Pixels.pdf) |
 | 2020.03.10 | Week38 | Detecting Photoshopped Faces | 최승환 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week38-Detecting_Photoshopped_Faces_by_Scripting_Photoshop.pdf) |
 | 2020.03.10 | Week38 | Stand-Alone Self-Attention | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week38-Stand_Alone.pdf) |
+| 2020.03.19 | Week39 | Momentum Contrast | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week39-Momentum_Contrast.pdf) |
+| 2020.03.19 | Week39 | Unsupervised keypoint for class-conditional video prediction | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week39-unsupervised_keypoint_class_conditional.pdf) |
+| 2020.03.26 | Week40 | BigGAN | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week40-BigGAN.pdf) |
+| 2020.04.02 | Week41 | Cotrastive Learning | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week41-Contrastive_Learning.pdf) |
+| 2020.04.09 | Week42 | CondConv | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
+| 2020.04.09 | Week42 | Side Window Filtering | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week42-Side_Window_Filtering.pdf) |
+| 2020.04.16 | Week43 | Deep Image Spatial Transformation | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week43-Deep_Image_Spatial_Transformation.pdf) |
+| 2020.04.16 | Week43 | Learning to simulate complex physics | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week43-Learning_to_simulate_complex_physics.pdf) |
 
 
 
@@ -522,3 +530,50 @@
 * Stand-Alone Self-Attention (이상현)
 
   [Stand-Alone Self-Attention in Vision Models (NIPS 2019)](https://arxiv.org/abs/1906.05909)
+
+
+
+##### Week-39 (2020.03.19)
+* Momentum Contrast (김용규)
+
+  [Momentum Contrast for Unsupervised Visual Representation Learning (CVPR 2020)](https://arxiv.org/abs/1911.05722)
+
+* Unsupervised keypoint for class-conditional video prediction (김강열)
+
+  [Unsupervised Keypoint Learning for Guiding Class-Conditional Video Prediction (NIPS 2019)](https://arxiv.org/abs/1910.02027)
+
+
+
+##### Week-40 (2020.03.26)
+* BigGAN (박성현)
+
+  [Large Scale GAN Training for High Fidelity Natural Image Synthesis (ICLR 2019)](https://arxiv.org/abs/1809.11096)
+
+
+
+##### Week-41 (2020.04.02)
+* Cotrastive Learning (이준수)
+
+  [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+
+
+
+##### Week-42 (2020.04.09)
+* CondConv (김응엽)
+
+  [CondConv: Conditionally Parameterized Convolutions for Efficient Inference (NIPS 2019)](https://arxiv.org/abs/1904.04971)
+
+* Side Window Filtering (이상현)
+
+  [Side Window Filtering (CVPR 2019)](https://arxiv.org/abs/1905.07177)
+
+
+
+##### Week-43 (2020.04.16)
+* Deep Image Spatial Transformation (김용규)
+
+  [Deep Image Spatial Transformation for Person Image Generation (CVPR 2020)](https://arxiv.org/abs/2003.00696)
+
+* Learning to simulate complex physics (조영우)
+
+  [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/abs/2002.09405)
