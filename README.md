@@ -102,7 +102,15 @@
 | 2020.04.09 | Week42 | Side Window Filtering | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week42-Side_Window_Filtering.pdf) |
 | 2020.04.16 | Week43 | Deep Image Spatial Transformation | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week43-Deep_Image_Spatial_Transformation.pdf) |
 | 2020.04.16 | Week43 | Learning to simulate complex physics | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week43-Learning_to_simulate_complex_physics.pdf) |
-
+| 2020.04.30 | Week44 | Normalizing Flow | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week44-Normalizing_Flow.pdf) |
+| 2020.04.30 | Week44 | TAGAN | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week44-TAGAN.pdf) |
+| 2020.05.07 | Week45 | Contrastive Learning | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week45-Contrastive_Learning.pdf) |
+| 2020.05.21 | Week46 | Attentive CutMix | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week46-Attentive_Cutmix.pdf) |
+| 2020.05.21 | Week46 | CoCo-GAN | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week46-COCO-GAN.pdf) |
+| 2020.06.11 | Week47 | Semantically Multi-modal Image Synthesis | 김용규 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week47-Semantically_Multi-modal_Image_Synthesis.pdf) |
+| 2020.06.11 | Week47 | Stego Network | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week47-Stego_network.pdf) |
+| 2020.06.18 | Week48 | Density Estimation | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week48-Density_Estimation.pdf) |
+| 2020.06.18 | Week48 | TUNIT | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week48-TUNIT.pdf) |
 
 
 #### 참고자료 정리
@@ -577,3 +585,58 @@
 * Learning to simulate complex physics (조영우)
 
   [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/abs/2002.09405)
+
+
+
+##### Week-44 (2020.04.30)
+* Normalizing Flow (박성현)
+
+  [Variational Inference with Normalizing Flow (ICML 2015)](https://arxiv.org/abs/1505.05770)
+
+* TAGAN (김강열)
+
+  [Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language (NIPS 2018)](https://arxiv.org/abs/1810.11919)
+
+
+
+##### Week-45 (2020.05.07)
+* Contrastive Learning (이준수)
+
+  [A Simple Framework for Contrastive Learning of Visual Representations (ICML 2020)](https://arxiv.org/abs/2002.05709)
+
+  [Supervised Contrastive Learning](https://arxiv.org/abs/2004.11362)
+
+
+
+##### Week-46 (2020.05.21)
+* Attentive CutMix (김응엽)
+
+  [Attentive CutMix: An Enhanced Data Augmentation Approach for Deep Learning Based Image Classification (ICASSP 2020)](https://arxiv.org/abs/2003.13048)
+
+* CoCo-GAN (이상현)
+
+  [COCO-GAN: Generation by Parts via Conditional Coordinating (ICCV Oral)](https://arxiv.org/abs/1904.00284)
+
+
+
+##### Week-47 (2020.06.11)
+* Semantically Multi-modal Image Synthesis (김용규)
+
+  [Semantically Multi-modal Image Synthesis (CVPR 2020)](https://arxiv.org/abs/2003.12697)
+
+* Stego Network (조영우)
+
+  [Hiding Images in Plain Sight: Deep Steganography (NIPS 2017)](https://papers.nips.cc/paper/6802-hiding-images-in-plain-sight-deep-steganography)
+
+  [HiDDeN: Hiding Data With Deep Networks (ECCV 2018)](https://arxiv.org/abs/1807.09937)
+
+
+
+##### Week-48 (2020.06.18)
+* Density Estimation (김강열)
+
+  [Density estimation in representation space to predict model uncertainty](https://arxiv.org/abs/1908.07235)
+
+* TUNIT (박성현)
+
+  [Rethinking the Truly Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2006.06500)
