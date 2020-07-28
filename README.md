@@ -6,15 +6,24 @@
 - 김용규 - 2019.01.14 ~ Present (Davian 연구실 석사과정)
 - 김응엽 - 2019.09.24 ~ Present (Davian 연구실 석사과정)
 - 이준수 - 2019.09.24 ~ Present (Davian 연구실 석사과정)
+- 이정수 - 2019.09.24 ~ 2019.12.23 / 2020.07.08 ~ Present (Davian 연구실 석사과정)
 - 조영우 - 2020.01.07 ~ Present (Davian 연구실 석박과정)
 - 이상현 - 2020.02.04 ~ Present (Davian 연구실 석사과정)
+- 조경민 - 2020.07.08 ~ Present (Davian 연구실 박사과정)
+- 김태희 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
+- 이지현 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
+- 박정훈 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
+- 김태우 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
+- 정채연 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
+- 이지현 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
+- 이민수 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
+- 윤주열 - 2020.07.08 ~ Present (Davian 연구실 학부연구생)
 
 
 #### 스터디 참여자 (Past)
 - 박정수 - 2019.01.14 ~ 2019.09.18 (고려대 강재우 교수님 연구실 석박과정)
-- 이정수 - 2019.09.24 ~ 2019.12.23 (Davian 연구실 석사과정)
 - 조원웅 - 2019.12.24 ~ 2020.03.18 (Davian 연구실 석사과정)
-- 최승환 - 2020.01.07 ~ 2020.03.18 (Davian 연구실 석사과정)
+- 최승환 - 2020.01.07 ~ 2020.03.18 (Davian 연구실 석박과정)
 - 최성하 - 2020.02.11 ~ 2020.03.18 (Davian 연구실 박사과정)
 
 
@@ -111,6 +120,13 @@
 | 2020.06.11 | Week47 | Stego Network | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week47-Stego_network.pdf) |
 | 2020.06.18 | Week48 | Density Estimation | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week48-Density_Estimation.pdf) |
 | 2020.06.18 | Week48 | TUNIT | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week48-TUNIT.pdf) |
+| 2020.07.08 | Week49 | Training GAN with Limited Data | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week49-Training_GAN_with_Limited_Data.pdf) |
+| 2020.07.08 | Week49 | UGATIT | 이정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week49-UGATIT.pdf) |
+| 2020.07.15 | Week50 | Axiomatic Attribution | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week50-Axiomatic_Attribution.pdf) |
+| 2020.07.15 | Week50 | Classifying, Segmenting, and Tracking | 조경민 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week50-Classifying_Segmenting_and_Tracking.pdf) |
+| 2020.07.22 | Week51 | Hypergraph Attention networks | 김태희 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week51-hypergraph_attention_networks_for_multimodal_learning.pdf) |
+| 2020.07.22 | Week51 | TextVQA | 이지현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week51-TextVQA.pdf) |
+
 
 
 #### 참고자료 정리
@@ -640,3 +656,36 @@
 * TUNIT (박성현)
 
   [Rethinking the Truly Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2006.06500)
+
+
+
+##### Week-49 (2020.07.08)
+* Training GAN with Limited Data (박성현)
+
+  [Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)
+
+* UGATIT (이정수)
+
+  [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)](https://arxiv.org/abs/1907.10830)
+
+
+
+##### Week-50 (2020.07.15)
+* Axiomatic Attribution (김응엽)
+
+  [Axiomatic Attribution for Deep Networks (ICML 2017)](https://arxiv.org/abs/1703.01365)
+
+* Classifying, Segmenting, and Tracking (조경민)
+
+  [Classifying, Segmenting, and Tracking Object Instances in Video with Mask Propagation (CVPR 2020 Oral)](https://arxiv.org/abs/1912.04573)
+
+
+
+##### Week-51 (2020.07.22)
+* Hypergraph Attention networks (김태희)
+
+  [Hypergraph Attention Networks for Multimodal Learning (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Hypergraph_Attention_Networks_for_Multimodal_Learning_CVPR_2020_paper.pdf)
+
+* TextVQA (이지현)
+
+  [Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA (CVPR 2020)](https://arxiv.org/abs/1911.06258)
