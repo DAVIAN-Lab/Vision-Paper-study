@@ -2,8 +2,6 @@
 
 #### 스터디 참여자 (Current)
 - 박성현 - 2019.01.14 ~ Present (Davian 연구실 석사과정)
-- 김강열 - 2019.01.14 ~ Present (Davian 연구실 석사과정)
-- 김용규 - 2019.01.14 ~ Present (Davian 연구실 석사과정)
 - 김응엽 - 2019.09.24 ~ Present (Davian 연구실 석사과정)
 - 이준수 - 2019.09.24 ~ Present (Davian 연구실 석사과정)
 - 이정수 - 2019.09.24 ~ 2019.12.23 / 2020.07.08 ~ Present (Davian 연구실 석사과정)
@@ -25,6 +23,8 @@
 - 조원웅 - 2019.12.24 ~ 2020.03.18 (Davian 연구실 석사과정)
 - 최승환 - 2020.01.07 ~ 2020.03.18 (Davian 연구실 석박과정)
 - 최성하 - 2020.02.11 ~ 2020.03.18 (Davian 연구실 박사과정)
+- 김강열 - 2019.01.14 ~ 2020.08.26 (Davian 연구실 석사과정)
+- 김용규 - 2019.01.14 ~ 2020.08.26 (Davian 연구실 석사과정)
 
 
 #### 발표자료 정리
@@ -126,6 +126,18 @@
 | 2020.07.15 | Week50 | Classifying, Segmenting, and Tracking | 조경민 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week50-Classifying_Segmenting_and_Tracking.pdf) |
 | 2020.07.22 | Week51 | Hypergraph Attention networks | 김태희 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week51-hypergraph_attention_networks_for_multimodal_learning.pdf) |
 | 2020.07.22 | Week51 | TextVQA | 이지현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week51-TextVQA.pdf) |
+| 2020.07.29 | Week52 | SeFA | 박정훈 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week52-Closed_form_factorization.pdf) |
+| 2020.07.29 | Week52 | Interactive Image Segmentation via BRS | 김태우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week52-Interactive_Seg_BRS.pdf) |
+| 2020.08.05 | Week53 | Class-Balanced Loss | 윤주열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week53-Class-Balanced_Loss_Based_on_Effective_Number_of_Samples.pdf) |
+| 2020.08.05 | Week53 | Image Sentiment Transfer | 정채연 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week53-Image_Sentiment_Transfer.pdf) |
+| 2020.08.12 | Week54 | PointNet | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week54-PointNet.pdf) |
+| 2020.08.12 | Week54 | Unsupervised Learning | 이민수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week54-Unsupervised_Learning.pdf) |
+| 2020.08.19 | Week55 | Learning De-biased Representations | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week55-Learning_De-biased_representations.pdf) |
+| 2020.08.19 | Week55 | On Calibration | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week55-On_calibration.pdf) |
+| 2020.08.26 | Week56 | Face Normalization | 이정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week56-Face_Normalization.pdf) |
+| 2020.09.01 | Week57 | FastGCN | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week57-FastGCN.pdf) |
+| 2020.09.01 | Week57 | Rewriting a Deep Generative Model | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week57-rewriting_a_deep_generative_model.pdf) |
+
 
 
 
@@ -689,3 +701,65 @@
 * TextVQA (이지현)
 
   [Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA (CVPR 2020)](https://arxiv.org/abs/1911.06258)
+
+
+
+##### Week-52 (2020.07.29)
+* SeFA (박정훈)
+
+  [Closed-Form Factorization of Latent Semantics in GANs](https://arxiv.org/abs/2007.06600)
+
+* Interactive Image Segmentation via BRS (김태우)
+
+  [Interactive Image Segmentation via Backpropagating Refinement Scheme (CVPR 2019)](https://vcg.seas.harvard.edu/publications/interactive-image-segmentation-via-backpropagating-refinement-scheme/paper)
+
+
+
+##### Week-53 (2020.08.05)
+* Class-Balanced Loss (윤주열)
+
+  [Class-Balanced Loss Based on Effective Number of Samples (CVPR 2019)](https://arxiv.org/abs/1901.05555)
+
+* Image Sentiment Transfer (정채연)
+
+  [Image Sentiment Transfer (ACM Multimedia 2020)](https://arxiv.org/abs/2006.11337)
+
+
+
+##### Week-54 (2020.08.12)
+* PointNet (조영우)
+
+  [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation (CVPR 2017)](https://arxiv.org/abs/1612.00593)
+
+* Unsupervised Learning (이민수)
+
+  [Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild (CVPR 2020 Best Paper)](https://arxiv.org/abs/1911.11130)
+
+
+
+##### Week-55 (2020.08.19)
+* Learning De-biased Representations (이준수)
+
+  [Learning De-biased Representations with Biased Representations (ICML 2020)](https://arxiv.org/abs/1910.02806)
+
+* On Calibration (김강열)
+
+  [On Calibration of Modern Neural Networks (ICML 2017)](https://arxiv.org/abs/1706.04599)
+
+
+
+##### Week-56 (2020.08.26)
+* Face Normalization (이정수)
+
+  [Unsupervised Face Normalization with Extreme Pose and Expression in the Wild (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Qian_Unsupervised_Face_Normalization_With_Extreme_Pose_and_Expression_in_the_CVPR_2019_paper.pdf)
+
+
+
+##### Week-57 (2020.09.01)
+* FastGCN (이상현)
+
+  [FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling (ICML 2018)](https://arxiv.org/abs/1801.10247)
+
+* Rewriting a Deep Generative Model (김응엽)
+
+  [Rewriting a Deep Generative Model (ECCV 2020 Oral)](https://arxiv.org/abs/2007.15646)
