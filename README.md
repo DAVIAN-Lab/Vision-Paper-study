@@ -5,7 +5,7 @@
 - 김응엽 - 2019.09.24 ~ Present (Davian 연구실 석사과정)
 - 이준수 - 2019.09.24 ~ Present (Davian 연구실 석사과정)
 - 이정수 - 2019.09.24 ~ 2019.12.23 / 2020.07.08 ~ Present (Davian 연구실 석사과정)
-- 조영우 - 2020.01.07 ~ Present (Davian 연구실 석박과정)
+- 조영우 - 2020.01.07 ~ Present (Davian 연구실 박사과정)
 - 이상현 - 2020.02.04 ~ Present (Davian 연구실 석사과정)
 - 조경민 - 2020.07.08 ~ Present (Davian 연구실 박사과정)
 - 김태희 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
@@ -20,8 +20,8 @@
 
 #### 스터디 참여자 (Past)
 - 박정수 - 2019.01.14 ~ 2019.09.18 (고려대 강재우 교수님 연구실 석박과정)
-- 조원웅 - 2019.12.24 ~ 2020.03.18 (Davian 연구실 석사과정)
-- 최승환 - 2020.01.07 ~ 2020.03.18 (Davian 연구실 석박과정)
+- 조원웅 - 2019.12.24 ~ 2020.03.18 (Davian 연구실 석사졸업)
+- 최승환 - 2020.01.07 ~ 2020.03.18 (Davian 연구실 박사과정)
 - 최성하 - 2020.02.11 ~ 2020.03.18 (Davian 연구실 박사과정)
 - 김강열 - 2019.01.14 ~ 2020.08.26 (Davian 연구실 석사과정)
 - 김용규 - 2019.01.14 ~ 2020.08.26 (Davian 연구실 석사과정)
@@ -137,7 +137,11 @@
 | 2020.08.26 | Week56 | Face Normalization | 이정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week56-Face_Normalization.pdf) |
 | 2020.09.01 | Week57 | FastGCN | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week57-FastGCN.pdf) |
 | 2020.09.01 | Week57 | Rewriting a Deep Generative Model | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week57-rewriting_a_deep_generative_model.pdf) |
-
+| 2020.09.08 | Week58 | Daytime Translation | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week58-Daytime_Translation.pdf) |
+| 2020.09.15 | Week59 | Bottom-Up and Top-down Attention VQA | 허경훈 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week59-Bottom-Up_and_Top-Down_Attention_VQA.pdf) |
+| 2020.09.15 | Week59 | MRI Cross-Modality I2I Translation | 이한얼 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week59-MRI_Cross-Modality_I2I_Translation.pdf) |
+| 2020.09.22 | Week60 | FlowNet | 조경민 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week60-Flownet.pdf) |
+| 2020.09.22 | Week60 | Generative Query Network | 이규복 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week60-Generative_Query_Network.pdf) |
 
 
 
@@ -763,3 +767,35 @@
 * Rewriting a Deep Generative Model (김응엽)
 
   [Rewriting a Deep Generative Model (ECCV 2020 Oral)](https://arxiv.org/abs/2007.15646)
+
+
+
+| 2020.09.22 | Week60 |  | 조경민 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week60-Flownet.pdf) |
+| 2020.09.22 | Week60 |  | 이규복 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week60-Generative_Query_Network.pdf) |
+
+##### Week-58 (2020.09.08)
+* Daytime Translation (박성현)
+
+  [High-Resolution Daytime Translation without Domain Labels (CVPR 2020 Oral)](https://arxiv.org/abs/2003.08791)
+
+
+
+##### Week-59 (2020.09.15)
+* Bottom-Up and Top-down Attention VQA (허경훈)
+
+  [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering (CVPR 2018 Oral)](https://arxiv.org/abs/1707.07998)
+
+* MRI Cross-Modality I2I Translation (이한얼)
+
+  [MRI Cross-Modality Image-to-Image Translation](https://www.nature.com/articles/s41598-020-60520-6)
+  
+
+
+##### Week-60 (2020.09.22)
+* FlowNet (조경민)
+
+  [FlowNet: Learning Optical Flow with Convolutional Networks (ICCV 2015)](https://arxiv.org/abs/1504.06852)
+
+* Generative Query Network (이규복)
+
+  [Neural scene representation and rendering](https://science.sciencemag.org/content/sci/360/6394/1204.full.pdf)
