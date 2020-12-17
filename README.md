@@ -142,6 +142,19 @@
 | 2020.09.15 | Week59 | MRI Cross-Modality I2I Translation | 이한얼 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week59-MRI_Cross-Modality_I2I_Translation.pdf) |
 | 2020.09.22 | Week60 | FlowNet | 조경민 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week60-Flownet.pdf) |
 | 2020.09.22 | Week60 | Generative Query Network | 이규복 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week60-Generative_Query_Network.pdf) |
+| 2020.10.06 | Week61 | An Image is worth 16x16 words | 김태희 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week61-An_Image_is_Worth_16x16_words.pdf) |
+| 2020.10.06 | Week61 | RAFT | 김진희 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week61-RAFT.pdf) |
+| 2020.10.13 | Week62 | Interactive Seg with First Click | 김태우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week62-Interactive_seg_first_click.pdf) |
+| 2020.10.13 | Week62 | SPADE & SEAN | 이민수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week62-SPADE_SEAN.pdf) |
+| 2020.10.20 | Week63 | Learning from Failure | 이지현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week63-Learning_from_failure.pdf) |
+| 2020.10.20 | Week63 | Maintaining Discrimination and Fairness | 정채연 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week63-Maintaining_Discrimination_and_Fairness.pdf) |
+| 2020.10.27 | Week64 | CSI | 박정훈 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week64-CSI.pdf) |
+| 2020.10.27 | Week64 | Underexposed Pose Enhancement | 윤주열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week64-Photo_Enhancement.pdf) |
+| 2020.12.01 | Week65 | COCO-FUNIT | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week65-COCO-FUNIT.pdf) |
+| 2020.12.08 | Week66 | How to Start Training | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week66-How_to_Start_Training.pdf) |
+| 2020.12.08 | Week66 | Shape Bias | 이정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week66-Shape_Bias.pdf) |
+| 2020.12.15 | Week67 | Devil is in the Edges | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week67-Devil_is_in_the_Edges.pdf) |
+| 2020.12.15 | Week67 | Texture Bias | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week67-Textual_Bias.pdf) |
 
 
 
@@ -770,9 +783,6 @@
 
 
 
-| 2020.09.22 | Week60 |  | 조경민 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week60-Flownet.pdf) |
-| 2020.09.22 | Week60 |  | 이규복 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week60-Generative_Query_Network.pdf) |
-
 ##### Week-58 (2020.09.08)
 * Daytime Translation (박성현)
 
@@ -788,7 +798,7 @@
 * MRI Cross-Modality I2I Translation (이한얼)
 
   [MRI Cross-Modality Image-to-Image Translation](https://www.nature.com/articles/s41598-020-60520-6)
-  
+
 
 
 ##### Week-60 (2020.09.22)
@@ -799,3 +809,78 @@
 * Generative Query Network (이규복)
 
   [Neural scene representation and rendering](https://science.sciencemag.org/content/sci/360/6394/1204.full.pdf)
+
+
+
+##### Week-61 (2020.10.06)
+* An Image is worth 16x16 words (김태희)
+
+  [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
+
+* RAFT (김진희)
+
+  [RAFT: Recurrent All-Pairs Field Transforms for Optical Flow (ECCV 2020 Best Paper)](https://arxiv.org/abs/2003.12039)
+
+
+
+##### Week-62 (2020.10.13)
+* Interactive Seg with First Click (김태우)
+
+  [Interactive Image Segmentation with First Click Attention (CVPR 2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Interactive_Image_Segmentation_With_First_Click_Attention_CVPR_2020_paper.pdf)
+
+* SPADE & SEAN (이민수)
+
+  [Semantic Image Synthesis with Spatially-Adaptive Normalization (CVPR 2019 Oral)](https://arxiv.org/abs/1903.07291)
+
+  [SEAN: Image Synthesis with Semantic Region-Adaptive Normalization (CVPR 2020 Oral)](https://arxiv.org/abs/1911.12861)
+
+
+
+##### Week-63 (2020.10.20)
+* Learning from Failure (이지현)
+
+  [Learning from Failure: Training Debiased Classifier from Biased Classifier (NIPS 2020)](https://arxiv.org/abs/2007.02561)
+
+* Maintaining Discrimination and Fairness (정채연)
+
+  [Maintaining Discrimination and Fairness in Class Incremental Learning (CVPR 2020)](https://arxiv.org/abs/1911.07053)
+
+
+
+##### Week-64 (2020.10.27)
+* CSI (박정훈)
+
+  [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances (NIPS 2020)](https://arxiv.org/abs/2007.08176)
+
+* Underexposed Pose Enhancement (윤주열)
+
+  [Underexposed Photo Enhancement using Deep Illumination Estimation (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Underexposed_Photo_Enhancement_Using_Deep_Illumination_Estimation_CVPR_2019_paper.pdf)
+
+
+
+##### Week-65 (2020.12.01)
+* COCO-FUNIT (이준수)
+
+  [COCO-FUNIT: Few-Shot Unsupervised Image Translation with a Content Conditioned Style Encoder (ECCV 2020 Spotlight)](https://arxiv.org/abs/2007.07431)
+
+
+
+##### Week-66 (2020.12.08)
+* How to Start Training (조영우)
+
+  [How to Start Training: The Effect of Initialization and Architecture (NIPS 2018)](https://arxiv.org/abs/1803.01719)
+
+* Shape Bias (이정수)
+
+  [Does Enhanced Shape Bias Improve Neural Network Robustness to Common Corruptions?](https://openreview.net/pdf?id=yUxUNaj2Sl)
+
+
+
+##### Week-67 (2020.12.15)
+* Devil is in the Edges (이상현)
+
+  [Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations (CVPR 2019 Oral)](https://arxiv.org/abs/1904.07934)
+
+* Texture Bias (김응엽)
+
+  [The Origins and Prevalence of Texture Bias in Convolutional Neural Networks (NIPS 2020)](https://arxiv.org/abs/1911.09071)
