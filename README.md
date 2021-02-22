@@ -155,6 +155,18 @@
 | 2020.12.08 | Week66 | Shape Bias | 이정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week66-Shape_Bias.pdf) |
 | 2020.12.15 | Week67 | Devil is in the Edges | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week67-Devil_is_in_the_Edges.pdf) |
 | 2020.12.15 | Week67 | Texture Bias | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week67-Textual_Bias.pdf) |
+| 2020.12.22 | Week68 | Differential Augmentation | 이한얼 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week68-Differentiable_Augmentation_for_Data-Efficient_GAN_Training.pdf) |
+| 2020.12.22 | Week68 | NeRF | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week68-NeRF.pdf) |
+| 2021.01.04 | Week69 | ADVENT | 정상헌 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week69-ADVENT.pdf) |
+| 2021.01.04 | Week69 | EfficientDet | 김진희 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week69-EfficientDet.pdf) |
+| 2021.01.11 | Week70 | SimSiam | 이민수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week70-SimSiam.pdf) |
+| 2021.01.18 | Week71 | SEED | 김태성 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week71-SEED.pdf) |
+| 2021.01.22 | Week71 | ManiGAN | 윤주열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/) |
+| 2021.02.01 | Week72 | MaskGAN | 김태우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week72-MaskGAN.pdf) |
+| 2021.02.08 | Week73 | First Order Motion Model | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week73-First_Order_Motion_Model.pdf) |
+| 2021.02.08 | Week73 | Maximum Classifier Discrepancy | 이정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week73-MaxDiscrepancy.pdf) |
+| 2021.02.22 | Week74 | Adversarial Mixing | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week74-Adversarial_Mixing.pdf) |
+| 2021.02.22 | Week74 | BézierSketch | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week74-BézierSketch.pdf) |
 
 
 
@@ -884,3 +896,72 @@
 * Texture Bias (김응엽)
 
   [The Origins and Prevalence of Texture Bias in Convolutional Neural Networks (NIPS 2020)](https://arxiv.org/abs/1911.09071)
+
+
+
+##### Week-68 (2020.12.22)
+* Differential Augmentation (이한얼)
+
+  [Differentiable Augmentation for Data-Efficient GAN Training (NIPS 2020)](https://arxiv.org/abs/2006.10738?)
+
+* NeRF (박성현)
+
+  [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (ECCV 2020 Best Paper)](https://arxiv.org/abs/2003.08934)
+
+
+
+##### Week-69 (2021.01.04)
+* ADVENT (정상헌)
+
+  [ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation (CVPR 2019)](https://arxiv.org/abs/1811.12833)
+
+* EfficientDet (김진희)
+
+  [EfficientDet: Scalable and Efficient Object Detection (CVPR 2020)](https://arxiv.org/abs/1911.09070)
+
+
+
+##### Week-70 (2021.01.11)
+* SimSiam (이민수)
+
+  [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)
+
+
+
+##### Week-71 (2021.01.18)
+* SEED (김태성)
+
+  [SEED: Self-supervised Distillation For Visual Representation (ICLR 2021)](https://arxiv.org/abs/2101.04731)
+
+* ManiGAN (윤주열)
+
+  [ManiGAN: Text-Guided Image Manipulation (CVPR 2020)](https://arxiv.org/abs/1912.06203)
+
+
+
+##### Week-72 (2021.02.01)
+* MaskGAN (김태우)
+
+  [MaskGAN: Towards Diverse and Interactive Facial Image Manipulation (CVPR 2020)](https://arxiv.org/abs/1907.11922)
+
+
+
+##### Week-73 (2021.02.08)
+* First Order Motion Model (이준수)
+
+  [First Order Motion Model for Image Animation (NIPS 2019)](https://arxiv.org/abs/2003.00196)
+
+* Maximum Classifier Discrepancy (이정수)
+
+  [Maximum Classifier Discrepancy for Unsupervised Domain Adaptation (CVPR 2018 Oral)](https://arxiv.org/abs/1712.02560)
+
+
+
+##### Week-74 (2021.02.22)
+* Adversarial Mixing (김응엽)
+
+  [Achieving Robustness in the Wild via Adversarial Mixing with Disentangled Representations (CVPR 2020)](https://arxiv.org/abs/1912.03192)
+
+* BézierSketch (이상현)
+
+  [BézierSketch: A generative model for scalable vector sketches (ECCV 2020)](https://arxiv.org/abs/2007.02190)
