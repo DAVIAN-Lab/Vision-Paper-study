@@ -1156,5 +1156,5 @@
 
 * StyleSpace (김응엽)
 
-  [StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation  (CVPR 2021 Oral)](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_StyleSpace_Analysis_Disentangled_Controls_for_StyleGAN_Image_Generation_CVPR_2021_paper.pdf
+  [StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation  (CVPR 2021 Oral)](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_StyleSpace_Analysis_Disentangled_Controls_for_StyleGAN_Image_Generation_CVPR_2021_paper.pdf)
 
