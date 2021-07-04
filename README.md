@@ -167,6 +167,38 @@
 | 2021.02.08 | Week73 | Maximum Classifier Discrepancy | 이정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week73-MaxDiscrepancy.pdf) |
 | 2021.02.22 | Week74 | Adversarial Mixing | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week74-Adversarial_Mixing.pdf) |
 | 2021.02.22 | Week74 | BézierSketch | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week74-BézierSketch.pdf) |
+| 2021.03.01 | Week75 | RIDE | 박성현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week75-RIDE.pdf) |
+| 2021.03.01 | Week75 | TrainingOnlyBN | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week75-TrainingOnlyBN.pdf) |
+| 2021.03.22 | Week76 | DeformableDETR | 김태성 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week76-DeformableDETR.pdf) |
+| 2021.03.22 | Week76 | DeepDoubleDescent | 김진희 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week76-DeepDoubleDescent.pdf) |
+| 2021.03.29 | Week77 | LambdaNetworks | 윤주열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week77-LambdaNetworks.pdf) |
+| 2021.03.29 | Week77 | LOHO | 김태우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week77-LOHO.pdf) |
+| 2021.04.05 | Week78 | DeepSnake | 양소영 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week78-DeepSnake.pdf) |
+| 2021.04.05 | Week78 | FastGAN | 공채린 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week78-FastGAN.pdf) |
+| 2021.04.12 | Week79 | CrossDatasetSegmentation | 정상헌 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week79-CrossDatasetSegmentation.pdf) |
+| 2021.04.12 | Week79 | GAN2Shape | 이민수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week79-GAN2Shape.pdf) |
+| 2021.04.19 | Week80 | GLOM | 박민호 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week80-GLOM.pdf) |
+| 2021.04.19 | Week80 | RepurposingGANs | 김강열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week80-RepurposingGANs.pdf) |
+| 2021.04.26 | Week81 | WeightAgnosticNN | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week81-WeightAgnosticNN.pdf) |
+| 2021.04.26 | Week81 | YOLOF | 최동민 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week81-YOLOF.pdf) |
+| 2021.05.03 | Week82 | Diffusion | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week82-Diffusion.pdf) |
+| 2021.05.03 | Week82 | ScalingLocalSelfAttention | 황성원 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week82-ScalingLocalSelfAttention.pdf) |
+| 2021.05.10 | Week83 | LayeredDepthInpainting | 정채연 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week83-LayeredDepthInpainting.pdf) |
+| 2021.05.17 | Week84 | BarlowTwins | 김진희 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week84-BarlowTwins.pdf) |
+| 2021.05.24 | Week85 | IntrinsicDimension | 공채린 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week85-IntrinsicDimension.pdf) |
+| 2021.05.24 | Week85 | OneShotFreeViewNTH | 김태우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week85-OneShotFreeViewNTH.pdf) |
+| 2021.05.31 | Week86 | Involution | 윤주열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week86-Involution.pdf) |
+| 2021.05.31 | Week86 | MLPMixer | 이민수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week86-MLPMixer.pdf) |
+| 2021.06.07 | Week87 | SegmentationTransformer | 박민호 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week87-SegmentationTransformer.pdf) |
+| 2021.06.07 | Week87 | VQGQN | 양소영 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week87-VQGQN.pdf) |
+| 2021.06.14 | Week88 | PretrainedTransformer | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week88-PretrainedTransformer.pdf) |
+| 2021.06.21 | Week89 | SwinTransformer | 황성원 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week89-SwinTransformer.pdf) |
+| 2021.06.28 | Week90 | BoxInst | 최동민 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week90-BoxInst.pdf) |
+| 2021.06.28 | Week90 | StyleSpace | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week90-StyleSpace.pdf) |
+
+
+
+
 
 
 
@@ -965,3 +997,164 @@
 * BézierSketch (이상현)
 
   [BézierSketch: A generative model for scalable vector sketches (ECCV 2020)](https://arxiv.org/abs/2007.02190)
+
+
+
+##### Week-75 (2021.03.01)
+* RIDE (박성현)
+
+  [Long-tailed Recognition by Routing Diverse Distribution-Aware Experts (ICLR 2021)](https://openreview.net/forum?id=D9I3drBz4UC)
+
+* TrainingOnlyBN (조영우)
+
+  [Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs (ICLR 2021)](https://openreview.net/forum?id=vYeQQ29Tbvx)
+
+
+
+##### Week-76 (2021.03.22)
+* DeformableDETR (김태성)
+
+  [Deformable DETR: Deformable Transformers for End-to-End Object Detection (ICLR 2021 Oral)](https://openreview.net/forum?id=gZ9hCDWe6ke)
+
+* DeepDoubleDescent (김진희)
+
+  [Deep Double Descent: Where Bigger Models and More Data Hurt (ICLR 2020)](https://arxiv.org/abs/1912.02292)
+
+
+
+##### Week-77 (2021.03.29)
+* LambdaNetworks (윤주열)
+
+  [LambdaNetworks: Modeling Long-Range Interactions Without Attention (ICLR 2021)](https://arxiv.org/abs/2102.08602)
+
+* LOHO (김태우)
+
+  [LOHO: Latent Optimization of Hairstyles via Orthogonalization  (CVPR 2021)](https://arxiv.org/abs/2103.03891)
+
+
+
+##### Week-78 (2021.04.05)
+* DeepSnake (양소영)
+
+  [Deep Snake for Real-Time Instance Segmentation (CVPR 2021 Oral)](https://arxiv.org/abs/2001.01629)
+
+* FastGAN (공채린)
+
+  [Towards Faster and Stabilized GAN Training For High-fidelity Few-shot Image Synthesis  (ICLR 2021)](https://arxiv.org/abs/2101.04775)
+
+
+
+##### Week-79 (2021.04.12)
+* CrossDatasetSegmentation (정상헌)
+
+  [Cross-Dataset Collaborative Learning for Semantic Segmentation (CVPR 2021)](https://arxiv.org/abs/2103.11351)
+
+* GAN2Shape (이민수)
+
+  [Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs  (ICLR 2021 Oral)](https://arxiv.org/pdf/2011.00844.pdf)
+
+
+
+##### Week-80 (2021.04.19)
+* GLOM (박민호)
+
+  [How to represent part-whole hierarchies in a neural network (Arxiv)](https://arxiv.org/abs/2102.12627)
+
+* RepurposingGANs (김강열)
+
+  [Repurposing GANs for One-shot Semantic Part Segmentation  (CVPR 2021 Oral)](https://arxiv.org/abs/2103.04379)
+
+
+
+##### Week-81 (2021.04.26)
+* WeightAgnosticNN (조영우)
+
+  [Weight Agnostic Neural Networks  (NeurIPS 2019)](https://arxiv.org/abs/1906.04358)
+
+* YOLOF (최동민)
+
+  [You Only Look One-level Feature  (CVPR 2021)](https://arxiv.org/abs/2103.09460)
+
+
+
+##### Week-82 (2021.05.03)
+* Diffusion (이상현)
+
+  [Denoising Diffusion Probabilistic Model  (NeurIPS 2020)](https://arxiv.org/pdf/2006.11239.pdf)
+
+* ScalingLocalSelfAttention (황성원)
+
+  [Scaling Local Self-Attention for Parameter Efficient Visual Bacbones  (CVPR 2021 Oral)](https://arxiv.org/pdf/2103.12731v2.pdf)
+
+
+
+##### Week-83 (2021.05.10)
+* LayeredDepthInpainting (정채연)
+
+  [3D Photography using Context-aware Layered Depth Inpainting  (CVPR 2020)](https://arxiv.org/abs/2004.04727)
+
+
+
+##### Week-84 (2021.05.17)
+* BarlowTwins (김진희)
+
+  [Barlow Twins: Self-Supervised Learning via Redundancy Reduction  (ICML 2021)](https://arxiv.org/abs/2103.03230)
+
+
+
+##### Week-85 (2021.05.24)
+* IntrinsicDimension (공채린)
+
+  [The Intrinsic Dimension of Images and Its Impact on Learning  (ICLR 2021)](https://openreview.net/forum?id=XJk19XzGq2J)
+
+* OneShotFreeViewNTH (김태우)
+
+  [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing  (CVPR 2021 Oral)](https://nvlabs.github.io/face-vid2vid/)
+
+
+
+##### Week-86 (2021.05.31)
+* Involution (윤주열)
+
+  [Involution: Inverting the Inherence of Convolution for Visual Recognition  (CVPR 2021)](https://arxiv.org/abs/2103.06255)
+
+* MLPMixer (이민수)
+
+  [MLP-Mixer: An all-MLP Architecture for Vision  (Arxiv)](https://arxiv.org/abs/2105.01601)
+
+
+
+##### Week-87 (2021.06.07)
+* SegmentationTransformer (박민호)
+
+  [Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation  (ECCV 2020)](https://arxiv.org/abs/1909.11065)
+
+* VQGQN (양소영)
+
+  [Taming Transformers for High-Resolution Image Synthesis  (CVPR 2021 Oral)](https://compvis.github.io/taming-transformers/)
+
+
+
+##### Week-88 (2021.06.14)
+* PretrainedTransformer (조영우)
+
+  [Pretrained Transformers as Universal Computation Engines  (NeurIPS 2021)](https://arxiv.org/abs/2103.05247)
+
+
+
+##### Week-89 (2021.06.21)
+* SwinTransformer (황성원)
+
+  [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows  (Arxiv)](https://arxiv.org/abs/2103.05247)
+
+
+
+##### Week-90 (2021.06.28)
+* BoxInst (최동민)
+
+  [BoxInst: High-Performance Instance Segmentation with Box Annotations  (CVPR 2021)](https://arxiv.org/abs/2012.02310)
+
+* StyleSpace (김응엽)
+
+  [StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation  (CVPR 2021 Oral)](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_StyleSpace_Analysis_Disentangled_Controls_for_StyleGAN_Image_Generation_CVPR_2021_paper.pdf
+
