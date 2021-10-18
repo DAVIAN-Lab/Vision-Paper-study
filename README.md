@@ -1,30 +1,6 @@
 # Paper-Study
 
-#### 스터디 참여자 (Current)
-- 박성현 - 2019.01.14 ~ Present (Davian 연구실 석사과정)
-- 김응엽 - 2019.09.24 ~ Present (Davian 연구실 석사과정)
-- 이준수 - 2019.09.24 ~ Present (Davian 연구실 석사과정)
-- 이정수 - 2019.09.24 ~ 2019.12.23 / 2020.07.08 ~ Present (Davian 연구실 석사과정)
-- 조영우 - 2020.01.07 ~ Present (Davian 연구실 박사과정)
-- 이상현 - 2020.02.04 ~ Present (Davian 연구실 석사과정)
-- 조경민 - 2020.07.08 ~ Present (Davian 연구실 박사과정)
-- 김태희 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
-- 이지현 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
-- 박정훈 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
-- 김태우 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
-- 정채연 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
-- 이지현 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
-- 이민수 - 2020.07.08 ~ Present (Davian 연구실 석사과정)
-- 윤주열 - 2020.07.08 ~ Present (Davian 연구실 학부연구생)
-
-
-#### 스터디 참여자 (Past)
-- 박정수 - 2019.01.14 ~ 2019.09.18 (고려대 강재우 교수님 연구실 석박과정)
-- 조원웅 - 2019.12.24 ~ 2020.03.18 (Davian 연구실 석사졸업)
-- 최승환 - 2020.01.07 ~ 2020.03.18 (Davian 연구실 박사과정)
-- 최성하 - 2020.02.11 ~ 2020.03.18 (Davian 연구실 박사과정)
-- 김강열 - 2019.01.14 ~ 2020.08.26 (Davian 연구실 석사과정)
-- 김용규 - 2019.01.14 ~ 2020.08.26 (Davian 연구실 석사과정)
+This repository provides the presentation slides of Computer Vision Study in [DAVIAN Lab](https://sites.google.com/site/jaegulchoo/).
 
 
 #### 발표자료 정리
