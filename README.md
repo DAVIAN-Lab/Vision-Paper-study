@@ -171,6 +171,8 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 | 2021.06.21 | Week89 | SwinTransformer | 황성원 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week89-SwinTransformer.pdf) |
 | 2021.06.28 | Week90 | BoxInst | 최동민 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week90-BoxInst.pdf) |
 | 2021.06.28 | Week90 | StyleSpace | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week90-StyleSpace.pdf) |
+| 2021.07.05 | Week91 | SegFormer  | 정상헌 | |
+| 2021.07.05 | Week91 | InverseForm  | 이상현 | |
 
 
 
