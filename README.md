@@ -1170,7 +1170,7 @@ This repository provides the presentation slides of Computer Vision Study in [DA
   [ pi-GAN: Periodic Implicit Generative Adversarial Networks  for 3D-Aware Image Synthesis   (CVPR 2021 Oral)](https://arxiv.org/abs/2012.00926)
   
   
-##### Week-95 (2021.07.19)
+##### Week-95 (2021.08.02)
 * semanticGAN (박여정)
 
   [Semantic Segmentation with Generative Models (semanticGAN): Semi-Supervised Learning and Strong Out-of-Domain Generalization    (CVPR 2021)](https://arxiv.org/abs/2104.05833)
@@ -1179,4 +1179,121 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields   (CVPR 2021 Best Paper)](https://arxiv.org/abs/2011.12100)
   
+  
+##### Week-96 (2021.08.09)
+* 3D Garment (박세직)
 
+  [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On   (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Santesteban_Self-Supervised_Collision_Handling_via_Generative_3D_Garment_Models_for_Virtual_CVPR_2021_paper.html)
+
+* Deep Edge (이상현)
+
+  [Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects   (ICCV 2021 Oral)](https://arxiv.org/pdf/2107.01619.pdf)
+
+
+##### Week-97 (2021.08.16)
+* 4D Facial Avatar (형준하)
+
+  [Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction   (CVPR 2021)](https://arxiv.org/abs/2012.03065)
+
+* StyleMapGAN (이한얼)
+
+  [Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing   (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Exploiting_Spatial_Dimensions_of_Latent_in_GAN_for_Real-Time_Image_CVPR_2021_paper.pdf)
+  
+  
+##### Week-98 (2021.08.23)
+* FCOS (박지호)
+
+  [FCOS: Fully Convolutional One-Stage Object Detection   (CVPR 2019)](https://arxiv.org/abs/1904.01355)
+
+* RobustNet (정상헌)
+
+  [RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening   (CVPR 2021 Oral)](https://arxiv.org/abs/2103.15597)
+  
+  
+##### Week-99 (2021.08.30)
+* General Continual Learning (최성하)
+
+  [Dark Experience for General Continual Learning: a Strong, Simple Baseline  (NeurIPS 2020)](https://proceedings.neurips.cc//paper/2020/file/b704ea2c39778f07c617f6b7ce480e9e-Paper.pdf)
+
+* Tensor decomposition (조영우)
+
+  [No paper]
+
+
+##### Week-100 (2021.09.06)
+* Continual Learning with hypernetworks (황성원)
+
+  [Continual learning with hypernetworks  (ICLR 2020 spotlight)](https://arxiv.org/abs/1906.00695)
+
+* Vision Transformers See (문종학)
+
+  [Do vision transformers see like convolutional neural networks? (NeurIPS 2021)](https://arxiv.org/abs/2108.08810)
+  
+  
+##### Week-101 (2021.09.13)
+* Estimating Gradients (이상윤)
+
+  [Generative Modeling by Estimating Gradients of the Data Distribution  (NeurIPS 2019 Oral)](https://arxiv.org/abs/1907.05600)
+
+* KiloNeRF (조경민)
+
+  [KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs (ICCV 2021)](https://arxiv.org/abs/2103.13744)
+  
+  
+##### Week-102 (2021.09.27)
+* Sketch Your Own GAN (김태우)
+
+  [Sketch Your Own GAN  (ICCV 2020)](https://arxiv.org/abs/2108.02774)
+
+* NeRFactor (정채연)
+
+  [NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination (SIGGRAPH Asia 2021)](https://arxiv.org/abs/2106.01970)
+  
+  
+##### Week-103 (2021.10.04)
+* Deep-MAC (박민호)
+
+  [The surprising impact of mask-head architecture on novel class segmentation  (ICCV 2020)](https://arxiv.org/abs/2104.00613)
+
+* Pose with Style (이민수)
+
+  [Pose with Style: Detail-Preserving Pose-Guided Image Synthesis with Conditional StyleGAN (SIGGRAPH Asia 2021)](https://arxiv.org/abs/2109.06166)
+  
+  
+##### Week-104 (2021.10.11)
+* CUT (박여정)
+
+  [Contrastive Learning for Unpaired Image-to-Image Translation  (ICCV 2020)](https://arxiv.org/abs/2007.15651)
+
+* VATT (박세직)
+
+  [VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text (NeurIPS 2021)](https://arxiv.org/abs/2104.11178)
+  
+  
+  
+##### Week-105 (2021.10.18)
+* CBNetV2 (윤주열)
+
+  [CBNetV2: A Composite Backbone Network Architecture for Object Detection  (arxiv 2021)](https://arxiv.org/abs/2107.00420)
+
+* StyleNeRF (형준하)
+
+  [StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis (AAAI 2021)](https://arxiv.org/abs/2110.08985)
+  
+
+##### Week-106 (2021.10.25)
+* Self-EMD (문종학)
+
+  [Self-EMD: Self-Supervised Object Detection without ImageNet  (arxiv 2020)](https://arxiv.org/abs/2011.13677)
+
+  
+  
+##### Week-107 (2021.11.01)
+* Demystifying Neural Style Transfer (이한얼)
+
+  [Demystifying Neural Style Transfer  (IJCAI 2017)](https://arxiv.org/abs/1701.01036)
+
+* One-Class Classifier (이관호)
+
+  [Adversarially Learned One-Class Classifier for Novelty Detection (CVPR 2018)](https://arxiv.org/abs/1802.09088)
+  
