@@ -198,6 +198,24 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 | 2021.10.04 | Week103 | Pose with Style | 이민수 | |
 | 2021.10.11 | Week104 | CUT  | 박여정 | |
 | 2021.10.11 | Week104 | VATT  | 박세직 | |
+| 2021.10.11 | Week105 | CBNetV2   | 윤주열 | |
+| 2021.10.11 | Week105 | StyleNeRF  | 형준하 | |
+| 2021.10.11 | Week106 | Self-EMD   | 문종학 | |
+| 2021.10.11 | Week107 | Demystifying Neural Style Transfer   | 이한얼 | |
+| 2021.10.11 | Week107 | One-Class Classifier  | 이관호 | |
+| 2021.10.11 | Week108 | CUT  | 박여정 | |
+| 2021.10.11 | Week108 | VATT  | 박세직 | |
+| 2021.10.11 | Week109 | CUT  | 박여정 | |
+| 2021.10.11 | Week109 | VATT  | 박세직 | |
+| 2021.10.11 | Week110 | CUT  | 박여정 | |
+| 2021.10.11 | Week110 | VATT  | 박세직 | |
+| 2021.10.11 | Week111 | CUT  | 박여정 | |
+| 2021.10.11 | Week111 | VATT  | 박세직 | |
+| 2021.10.11 | Week112 | CUT  | 박여정 | |
+| 2021.10.11 | Week112 | VATT  | 박세직 | |
+| 2021.10.11 | Week113 | CUT  | 박여정 | |
+| 2021.10.11 | Week113 | VATT  | 박세직 | |
+
 
 
 
@@ -1327,7 +1345,7 @@ This repository provides the presentation slides of Computer Vision Study in [DA
   
   
 ##### Week-108 (2021.11.29)
-* Demystifying Neural Style Transfer (박여정)
+* Unaligned I2I (박여정)
 
   [Unaligned Image-to-Image Translation by Learning to Reweight  (ICCV 2021)](https://arxiv.org/abs/2109.11736)
   
