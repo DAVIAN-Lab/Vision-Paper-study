@@ -1134,3 +1134,49 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation  (CVPR 2021 Oral)](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_StyleSpace_Analysis_Disentangled_Controls_for_StyleGAN_Image_Generation_CVPR_2021_paper.pdf)
 
+##### Week-91 (2021.07.05)
+* SegFormer (정상헌)
+
+  [SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers  (NeurIPS 2021)](https://arxiv.org/abs/2105.15203)
+
+* InverseForm (이상현)
+
+  [InverseForm: A Loss Function for Structured Boundary-Aware Segmentation  (CVPR 2021 Oral)]((https://arxiv.org/abs/2104.02745)
+  
+  
+##### Week-92 (2021.07.12)
+* Co-Modulated GAN (정채연)
+
+  [Large Scale Image Completion via Co-Modulated Generative Adversarial Networks  (ICLR 2021)](https://openreview.net/pdf?id=sSjqmfsk95O)
+
+* Free Lunch (김태성)
+
+  [Free Lunch for Few-shot Learning: Distribution Calibration   (ICLR 2021 Oral)]((https://arxiv.org/abs/2104.02745)
+  
+  
+##### Week-93 (2021.07.19)
+* FC Panoptic (김민정)
+
+  [Fully Convolutional Networks for Panoptic Segmentation   (CVPR 2021 Oral)](https://openaccess.thecvf.com/content/CVPR2021/html/Li_Fully_Convolutional_Networks_for_Panoptic_Segmentation_CVPR_2021_paper.html)
+
+* Only a Matter of Style (김태우)
+
+  [Only a Matter of Style: Age Transformation Using a Style-Based Regression Model   (SIGGRAPH 2021)]((https://arxiv.org/abs/2102.02754)
+  
+  
+##### Week-94 (2021.07.26)
+* pi-GAN (이민수)
+
+  [ pi-GAN: Periodic Implicit Generative Adversarial Networks  for 3D-Aware Image Synthesis   (CVPR 2021 Oral)](https://arxiv.org/abs/2012.00926)
+  
+  
+##### Week-95 (2021.07.19)
+* semanticGAN (박여정)
+
+  [Semantic Segmentation with Generative Models (semanticGAN): Semi-Supervised Learning and Strong Out-of-Domain Generalization    (CVPR 2021)](https://arxiv.org/abs/2104.05833)
+
+* GIRAFFE (박민호)
+
+  [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields   (CVPR 2021 Best Paper)](https://arxiv.org/abs/2011.12100)
+  
+
