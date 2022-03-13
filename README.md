@@ -1297,3 +1297,54 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [Adversarially Learned One-Class Classifier for Novelty Detection (CVPR 2018)](https://arxiv.org/abs/1802.09088)
   
+  
+  
+##### Week-108 (2021.11.29)
+* Demystifying Neural Style Transfer (박여정)
+
+  [Unaligned Image-to-Image Translation by Learning to Reweight  (ICCV 2021)](https://arxiv.org/abs/2109.11736)
+  
+  
+##### Week-109 (2021.12.06)
+* Jigsaw Clustering (남혜린)
+
+  [Jigsaw Clustering for Unsupervised Visual Representation Learning  (CVPR 2021)](https://arxiv.org/abs/2104.00323)
+
+* SuperGlue (박민호)
+
+  [SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020 Oral)](https://arxiv.org/abs/1911.11763)
+
+
+
+##### Week-110 (2021.12.13)
+* Open World Object Detection (박세직)
+
+  [Towards Open World Object Detection  (CVPR 2021 Oral)](https://arxiv.org/abs/2103.02603)
+
+* Social Media Videos (이민수)
+
+  [Self-supervised 3D Representation Learning of Dressed Humans from Social Media Videos (CVPR 2021 Oral)](https://arxiv.org/abs/2103.03319)
+
+
+
+##### Week-111 (2021.12.20)
+* Deep Image Prior (이한얼)
+
+  [Deep Image Prior  (CVPR 2018)](https://arxiv.org/abs/1711.10925)
+  
+
+##### Week-112 (2021.12.27)
+* Swin Transformer V2 (윤주열)
+
+  [Swin Transformer V2: Scaling Up Capacity and Resolution  (arxiv 2021)](https://arxiv.org/abs/2111.09883)
+
+* DDPM (형준하)
+
+  [Denoising Diffusion Probabilistic Models (NeurIPS 2020)](https://arxiv.org/abs/2006.11239)
+  
+
+##### Week-113 (2022.01.03)
+* VA-RED^2 (정채연)
+
+  [VA-RED^2: Video Adaptive Redundancy Reduction  (ICLR 2021)](https://openreview.net/pdf?id=g21u6nlbPzn)
+
