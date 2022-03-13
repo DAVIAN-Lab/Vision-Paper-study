@@ -173,6 +173,31 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 | 2021.06.28 | Week90 | StyleSpace | 김응엽 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week90-StyleSpace.pdf) |
 | 2021.07.05 | Week91 | SegFormer  | 정상헌 | |
 | 2021.07.05 | Week91 | InverseForm  | 이상현 | |
+| 2021.07.12 | Week92 | Co-Modulated GAN  | 정채연 | |
+| 2021.07.12 | Week92 | Free Lunch | 김태성 | |
+| 2021.07.19 | Week93 | FC Panoptic | 김민정 | |
+| 2021.07.19 | Week93 | Only a Matter of Style | 김태우 | |
+| 2021.07.26 | Week94 | pi-GAN  | 이민수 | |
+| 2021.08.02 | Week95 | semanticGAN   | 박여정 | |
+| 2021.08.02 | Week95 | GIRAFFE  | 박민호 | |
+| 2021.08.09 | Week96 | 3D Garment  | 박세직 | |
+| 2021.08.09 | Week96 | Deep Edge  | 이상현 | |
+| 2021.08.16 | Week97 | 4D Facial Avatar  | 형준하 | |
+| 2021.08.16 | Week97 | StyleMapGAN  | 이한얼 | |
+| 2021.08.23 | Week98 | FCOS  | 박지호 | |
+| 2021.08.23 | Week98 | RobustNet  | 정상헌 | |
+| 2021.08.30 | Week99 | General Continual Learning | 최성하 | |
+| 2021.08.30 | Week99 | Tensor decomposition  | 조영우 | |
+| 2021.09.06 | Week100 | Continual Learning with hypernetworks  | 황성원 | |
+| 2021.09.06 | Week100 | Vision Transformers See  | 문종학 | |
+| 2021.09.13 | Week101 | Estimating Gradients  | 이상윤 | |
+| 2021.09.13 | Week101 | KiloNeRF  | 조경민 | |
+| 2021.09.27 | Week102 | Sketch Your Own GAN  | 김태우 | |
+| 2021.09.27 | Week102 | NeRFactor  | 정채연 | |
+| 2021.10.04 | Week103 | Deep-MAC  | 박민호 | |
+| 2021.10.04 | Week103 | Pose with Style | 이민수 | |
+| 2021.10.11 | Week104 | CUT  | 박여정 | |
+| 2021.10.11 | Week104 | VATT  | 박세직 | |
 
 
 
