@@ -125,7 +125,7 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 | 2020.10.20 | Week63 | Learning from Failure | 이지현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week63-Learning_from_failure.pdf) |
 | 2020.10.20 | Week63 | Maintaining Discrimination and Fairness | 정채연 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week63-Maintaining_Discrimination_and_Fairness.pdf) |
 | 2020.10.27 | Week64 | CSI | 박정훈 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week64-CSI.pdf) |
-| 2020.10.27 | Week64 | Underexposed Pose Enhancement | 윤주열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week64-Photo_Enhancement.pdf) |
+| 2020.10.27 | Week64 | Underexposed Photo Enhancement | 윤주열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week64-Photo_Enhancement.pdf) |
 | 2020.12.01 | Week65 | COCO-FUNIT | 이준수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week65-COCO-FUNIT.pdf) |
 | 2020.12.08 | Week66 | How to Start Training | 조영우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week66-How_to_Start_Training.pdf) |
 | 2020.12.08 | Week66 | Shape Bias | 이정수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week66-Shape_Bias.pdf) |
@@ -914,7 +914,7 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances (NIPS 2020)](https://arxiv.org/abs/2007.08176)
 
-* Underexposed Pose Enhancement (윤주열)
+* Underexposed Photo Enhancement (윤주열)
 
   [Underexposed Photo Enhancement using Deep Illumination Estimation (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Underexposed_Photo_Enhancement_Using_Deep_Illumination_Estimation_CVPR_2019_paper.pdf)
 
