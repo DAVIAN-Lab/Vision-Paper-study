@@ -23,6 +23,7 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 | 2022.03.14 | Week120 | CLIP-NeRF | 형준하 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week120-CLIP-NeRF.pdf) |
 | 2022.03.21 | Week121 | The Role of ImageNet Classes in Fréchet Inception Distance | 이상윤 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week121-The_Role_of_ImageNet_Classes_in_Frechet_Inception_Distance.pdf) |
 | 2022.03.21 | Week121 | Teachers Do More Than Teach | 정채연 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week121-Teachers_Do_More_Than_Teach.pdf) |
+| 2022.03.28 | Week122 | Image and Video Editing with StyleGANv3 | 김태우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week122-Image_and_Video_editing_with_styleganv3.pdf) |
 
 
 #### 참고자료 정리
@@ -114,3 +115,13 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 * Teachers Do More Than Teach: Compressing Image-to-Image Models (정채연)
 
   [Teachers Do More Than Teach: Compressing Image-to-Image Models](https://openaccess.thecvf.com/content/CVPR2021/html/Jin_Teachers_Do_More_Than_Teach_Compressing_Image-to-Image_Models_CVPR_2021_paper.html)
+
+##### Week-122 (2022.03.28)
+
+* Third Time's the Charm? Image and Video Editing with StyleGAN3 (김태우)
+
+  [Third Time's the Charm? Image and Video Editing with StyleGAN3](https://arxiv.org/abs/2203.06026)
+
+
+
+
