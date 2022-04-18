@@ -1,7 +1,7 @@
+```markdown
 # Paper-Study
 
 This repository provides the presentation slides of Computer Vision Study in [DAVIAN Lab](http://davian.kaist.ac.kr/) advised by professor [Jaegul Choo](https://sites.google.com/site/jaegulchoo/).
-
 
 #### 발표자료 정리
 
@@ -24,7 +24,10 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 | 2022.03.21 | Week121 | The Role of ImageNet Classes in Fréchet Inception Distance | 이상윤 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week121-The_Role_of_ImageNet_Classes_in_Frechet_Inception_Distance.pdf) |
 | 2022.03.21 | Week121 | Teachers Do More Than Teach | 정채연 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week121-Teachers_Do_More_Than_Teach.pdf) |
 | 2022.03.28 | Week122 | Image and Video Editing with StyleGANv3 | 김태우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week122-Image_and_Video_editing_with_styleganv3.pdf) |
-
+| 2022.04.04 | Week123 | INR for Hyperscpectral Imaging | 이한얼 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week123-INR_for_hyperspectral_imaging.pdf) |
+| 2022.04.04 | Week123 | PixMix | 이재성 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week123-PixMiX.pdf) |
+| 2022.04.11 | Week125 | iMAP | 배광탁 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week123-iMAP.pdf) |
+| 2022.04.11 | Week125 | MPViT | 정소희 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week123-MPViT.pdf) |
 
 #### 참고자료 정리
 ##### Week-113 (2022.01.03)
@@ -32,12 +35,10 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [VA-RED^2 Project Page](http://people.csail.mit.edu/bpan/va-red/)
 
-
 ##### Week-114 (2022.01.10)
 * Perceiver: General Perception with Iterative Attention (이관호)
 
   [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
-
 
 ##### Week-115 (2022.01.17)
 * How to Make a Pizza: Learning a Compositional Layer-Based GAN Model (조영우)
@@ -48,7 +49,6 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [CLIP: Connecting Text and Images](https://arxiv.org/abs/2103.00020)
   [CLIP OpenAI blog](https://openai.com/blog/clip/)
-
 
 ##### Week-116 (2022.01.24)
 * Florence: A New Foundation Model for Computer Vision (박민호)
@@ -65,7 +65,6 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Hou_Informative_and_Consistent_Correspondence_Mining_for_Cross-Domain_Weakly_Supervised_Object_CVPR_2021_paper.html)
 
-
 * BANMo: Building Animatable 3D Neural Models from Casual Videos (김병준)
 
   [BANMo: Building Animatable 3D Neural Models from Casual Videos](https://arxiv.org/abs/2112.12761)
@@ -76,18 +75,15 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [Dynamic Head: Unifying Object Detection Heads with Attentions](https://arxiv.org/abs/2106.08322)
 
-
 * TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive? (곽대훈)
 
   [TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?](https://proceedings.neurips.cc/paper/2021/hash/b618c3210e934362ac261db280128c22-Abstract.html)
-
 
 ##### Week-119 (2022.02.21)
 
 * First Order Motion Model for Image Animation (김기홍)
 
   [First Order Motion Model for Image Animation](https://arxiv.org/abs/2003.00196)
-
 
 * Latent Image Animator: Learning to Animate Images via Latent Space Navigation (이재성)
 
@@ -99,18 +95,15 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://arxiv.org/abs/2109.07161)
 
-
 * CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields (형준하)
 
   [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/pdf/2112.05139.pdf)
-
 
 ##### Week-121 (2022.03.21)
 
 * The Role of ImageNet Classes in Fréchet Inception Distance (이상윤)
 
   [The Role of ImageNet Classes in Fréchet Inception Distance](https://arxiv.org/abs/2203.06026)
-
 
 * Teachers Do More Than Teach: Compressing Image-to-Image Models (정채연)
 
@@ -122,6 +115,24 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [Third Time's the Charm? Image and Video Editing with StyleGAN3](https://arxiv.org/abs/2203.06026)
 
+##### Week-123 (2022.04.24)
 
+* Implicit Neural Representation Learning for Hyperspectral Image Super-Resolution (이한얼)
 
+  [Implicit Neural Representation Learning for Hyperspectral Image Super-Resolution](https://arxiv.org/abs/2112.10541)
 
+* PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures (이재성)
+
+  [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://arxiv.org/abs/2112.05135)
+
+##### Week-124 (2022.04.11)
+
+* MPViT: Multi-Path Vision Transformer for Dense Prediction (배광탁)
+
+  [MPViT: Multi-Path Vision Transformer for Dense Prediction](https://arxiv.org/abs/2112.11010)
+
+* iMAP: Implicit Mapping and Positioning in Real-Time (정소희)
+
+  [iMAP: Implicit Mapping and Positioning in Real-Time](https://arxiv.org/abs/2103.12352)
+
+```
