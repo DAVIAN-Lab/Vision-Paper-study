@@ -175,9 +175,13 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 * Semantic Image Synthesis (박민호)
 
   [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
+  
   [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
+  
   [Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis](https://arxiv.org/abs/1910.06809)
+  
   [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/abs/2012.04781)
+  
 
 ##### Week-127 (2022.05.02)
 
