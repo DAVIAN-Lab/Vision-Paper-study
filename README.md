@@ -1,7 +1,7 @@
-
 # Paper-Study
 
 This repository provides the presentation slides of Computer Vision Study in [DAVIAN Lab](http://davian.kaist.ac.kr/) advised by professor [Jaegul Choo](https://sites.google.com/site/jaegulchoo/).
+
 
 #### 발표자료 정리
 
@@ -26,8 +26,20 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 | 2022.03.28 | Week122 | Image and Video Editing with StyleGANv3 | 김태우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week122-Image_and_Video_editing_with_styleganv3.pdf) |
 | 2022.04.04 | Week123 | INR for Hyperscpectral Imaging | 이한얼 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week123-INR_for_hyperspectral_imaging.pdf) |
 | 2022.04.04 | Week123 | PixMix | 이재성 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week123-PixMiX.pdf) |
-| 2022.04.11 | Week125 | iMAP | 배광탁 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week123-iMAP.pdf) |
-| 2022.04.11 | Week125 | MPViT | 정소희 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week123-MPViT.pdf) |
+| 2022.04.11 | Week124 | iMAP | 배광탁 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week124-iMAP.pdf.pdf) |
+| 2022.04.11 | Week124 | MPViT | 정소희 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week124-MPViT.pdf.pdf) |
+| 2022.04.18 | Week125 | Hypercon | 박여정 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week125-Hypercon.pdf) |
+| 2022.04.18 | Week125 | SCNeRF | 김민정 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week125-SCNeRF.pdf) |
+| 2022.04.25 | Week126 | Semantic Image Synthesis | 박민호 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week126-Semantic_Image_Synthesis.pdf) |
+| 2022.05.02 | Week127 | NeRFactor | 황성원 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week127-NeRFactor.pdf) |
+| 2022.05.02 | Week127 | UNet_Discriminator | 이한얼 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week127-UNet_Discriminator.pdf) |
+| 2022.05.09 | Week128 | HDR Imaging | 윤주열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week128-HDR_Imaging.pdf) |
+| 2022.05.09 | Week128 | VolumeGAN | 정윤지 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week128-VolumeGAN.pdf) |
+| 2022.05.16 | Week129 | Pik-Fix | 정소희| [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week129-Pik-Fix.pdf) |
+| 2022.05.16 | Week129 | Weakly Supervised Clothing | 구교정 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week129-Weakly_Supervised_High_Fidelity_Clothing_Model_Generation.pdf) |
+| 2022.05.23 | Week130 | Backdoor Attacks on SSL | 이재성 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week130-Backdoor_Attacks_on_SSL.pdf) |
+| 2022.05.23 | Week130 | MoCoGAN-HD | 정채연 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week130-High-Resolution_Video_Synthesis.pdf) |
+
 
 #### 참고자료 정리
 ##### Week-113 (2022.01.03)
@@ -35,10 +47,12 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [VA-RED^2 Project Page](http://people.csail.mit.edu/bpan/va-red/)
 
+
 ##### Week-114 (2022.01.10)
 * Perceiver: General Perception with Iterative Attention (이관호)
 
   [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
+
 
 ##### Week-115 (2022.01.17)
 * How to Make a Pizza: Learning a Compositional Layer-Based GAN Model (조영우)
@@ -49,6 +63,7 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [CLIP: Connecting Text and Images](https://arxiv.org/abs/2103.00020)
   [CLIP OpenAI blog](https://openai.com/blog/clip/)
+
 
 ##### Week-116 (2022.01.24)
 * Florence: A New Foundation Model for Computer Vision (박민호)
@@ -65,6 +80,7 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Hou_Informative_and_Consistent_Correspondence_Mining_for_Cross-Domain_Weakly_Supervised_Object_CVPR_2021_paper.html)
 
+
 * BANMo: Building Animatable 3D Neural Models from Casual Videos (김병준)
 
   [BANMo: Building Animatable 3D Neural Models from Casual Videos](https://arxiv.org/abs/2112.12761)
@@ -75,15 +91,18 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [Dynamic Head: Unifying Object Detection Heads with Attentions](https://arxiv.org/abs/2106.08322)
 
+
 * TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive? (곽대훈)
 
   [TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive?](https://proceedings.neurips.cc/paper/2021/hash/b618c3210e934362ac261db280128c22-Abstract.html)
+
 
 ##### Week-119 (2022.02.21)
 
 * First Order Motion Model for Image Animation (김기홍)
 
   [First Order Motion Model for Image Animation](https://arxiv.org/abs/2003.00196)
+
 
 * Latent Image Animator: Learning to Animate Images via Latent Space Navigation (이재성)
 
@@ -95,15 +114,18 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions](https://arxiv.org/abs/2109.07161)
 
+
 * CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields (형준하)
 
   [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/pdf/2112.05139.pdf)
+
 
 ##### Week-121 (2022.03.21)
 
 * The Role of ImageNet Classes in Fréchet Inception Distance (이상윤)
 
   [The Role of ImageNet Classes in Fréchet Inception Distance](https://arxiv.org/abs/2203.06026)
+
 
 * Teachers Do More Than Teach: Compressing Image-to-Image Models (정채연)
 
@@ -125,6 +147,7 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures](https://arxiv.org/abs/2112.05135)
 
+
 ##### Week-124 (2022.04.11)
 
 * MPViT: Multi-Path Vision Transformer for Dense Prediction (배광탁)
@@ -134,5 +157,70 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 * iMAP: Implicit Mapping and Positioning in Real-Time (정소희)
 
   [iMAP: Implicit Mapping and Positioning in Real-Time](https://arxiv.org/abs/2103.12352)
+
+
+##### Week-125 (2022.04.18)
+
+* HyperCon: Image-To-Video Model Transfer for Video-To-Video Translation Tasks (박여정)
+
+  [HyperCon: Image-To-Video Model Transfer for Video-To-Video Translation Tasks](https://arxiv.org/abs/1912.04950)
+
+* Self-Calibrating Neural Radiance Fields (김민정)
+
+  [Self-Calibrating Neural Radiance Fields](https://arxiv.org/abs/2108.13826)
+	[Project Page](https://postech-cvlab.github.io/SCNeRF/)
+
+##### Week-126 (2022.04.25)
+
+* Semantic Image Synthesis (박민호)
+
+  [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
+	[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
+	[Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis](https://arxiv.org/abs/1910.06809)
+	[You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/abs/2012.04781)
+
+##### Week-127 (2022.05.02)
+
+* NeRFactor (황성원)
+
+  [NerFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://arxiv.org/abs/2106.01970)
+
+* A U-Net Based Discriminator for Generative Adversarial Networks (이한얼)
+
+  [A U-Net Based Discriminator for Generative Adversarial Networks](https://arxiv.org/pdf/2002.12655.pdf)
+
+
+##### Week-128 (2022.05.09)
+
+* Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline (윤주열)
+
+  [Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline](https://arxiv.org/abs/2004.01179)
+
+* 3D-aware Image Synthesis via Learning Structural and Textural Representations (정윤지)
+
+  [3D-aware Image Synthesis via Learning Structural and Textural Representations](https://arxiv.org/pdf/2112.10759.pdf)
+
+
+##### Week-129 (2022.05.16)
+
+* Pik-Fix: Restoring and Colorizing Old Photos (정소희)
+
+  [Pik-Fix: Restoring and Colorizing Old Photos](https://arxiv.org/abs/2205.01902)
+
+* Weakly Supervised High-Fidelity Clothing Model Generation (구교정)
+
+  [Weakly Supervised High-Fidelity Clothing Model Generation](https://arxiv.org/abs/2112.07200)
+
+
+##### Week-130 (2022.05.23)
+
+* A Good Image Generator Is What You Need for High-Resolution Video Synthesis (정채연)
+
+  [A Good Image Generator Is What You Need for High-Resolution Video Synthesis](https://arxiv.org/abs/2104.15069)
+	[Project Page](https://bluer555.github.io/MoCoGAN-HD/)
+
+* Backdoor Attacks on Self-Supervised Learning (이재성)
+
+  [Backdoor Attacks on Self-Supervised Learning](https://arxiv.org/abs/2105.10123)
 
 
