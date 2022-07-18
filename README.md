@@ -32,13 +32,22 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 | 2022.04.18 | Week125 | SCNeRF | 김민정 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week125-SCNeRF.pdf) |
 | 2022.04.25 | Week126 | Semantic Image Synthesis | 박민호 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week126-Semantic_Image_Synthesis.pdf) |
 | 2022.05.02 | Week127 | NeRFactor | 황성원 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week127-NeRFactor.pdf) |
-| 2022.05.02 | Week127 | UNet_Discriminator | 이한얼 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week127-UNet_Discriminator.pdf) |
+| 2022.05.02 | Week127 | UNet Discriminator | 이한얼 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week127-UNet_Discriminator.pdf) |
 | 2022.05.09 | Week128 | HDR Imaging | 윤주열 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week128-HDR_Imaging.pdf) |
 | 2022.05.09 | Week128 | VolumeGAN | 정윤지 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week128-VolumeGAN.pdf) |
 | 2022.05.16 | Week129 | Pik-Fix | 정소희| [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week129-Pik-Fix.pdf) |
 | 2022.05.16 | Week129 | Weakly Supervised Clothing | 구교정 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week129-Weakly_Supervised_High_Fidelity_Clothing_Model_Generation.pdf) |
 | 2022.05.23 | Week130 | Backdoor Attacks on SSL | 이재성 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week130-Backdoor_Attacks_on_SSL.pdf) |
 | 2022.05.23 | Week130 | MoCoGAN-HD | 정채연 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week130-High-Resolution_Video_Synthesis.pdf) |
+| 2022.05.30 | Week131 | CollaGAN | 이창선 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week131-CollaGAN.pdf) |
+| 2022.06.06 | Week132 | Imagen | 형준하 | Slides |
+| 2022.06.06 | Week132 | Your Classifier is an EBM | 이상윤 | Slides |
+| 2022.06.13 | Week133 | NeRV | 박여정 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week133-NeRV.pdf) |
+| 2022.06.13 | Week133 | Decesion Boundary | 이상현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week133-Decision_Boundary.pdf) |
+| 2022.06.20 | Week134 | ROME | 이재성 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week134-ROME.pdf) |
+| 2022.06.20 | Week134 | OCR Survey | 김동현 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week134-OCR_Survey.pdf) |
+| 2022.06.27 | Week135 | Latent to Latent | 김상우 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week135-Latent2Latent.pdf) |
+| 2022.06.27 | Week135 | SR3 | 남궁영수 | [Slides](https://github.com/psh01087/Paper-Study/blob/master/Paper-PPT/Week135-SR3.pdf) |
 
 
 #### 참고자료 정리
@@ -175,13 +184,9 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 * Semantic Image Synthesis (박민호)
 
   [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
-  
-  [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
-  
-  [Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis](https://arxiv.org/abs/1910.06809)
-  
-  [You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/abs/2012.04781)
-  
+	[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
+	[Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis](https://arxiv.org/abs/1910.06809)
+	[You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/abs/2012.04781)
 
 ##### Week-127 (2022.05.02)
 
@@ -226,5 +231,54 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 * Backdoor Attacks on Self-Supervised Learning (이재성)
 
   [Backdoor Attacks on Self-Supervised Learning](https://arxiv.org/abs/2105.10123)
+
+##### Week-131 (2022.05.30)
+
+* CollaGAN: Collaborative GAN for Missing Image Data Imputation (이창선)
+
+  [CollaGAN: Collaborative GAN for Missing Image Data Imputation](https://arxiv.org/abs/1901.09764)
+
+##### Week-132 (2022.06.06)
+
+* Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (형준하)
+
+  [Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/pdf/2205.11487.pdf)
+
+* Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One (이상윤)
+
+  [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://openreview.net/forum?id=Hkxzx0NtDB)
+
+##### Week-133 (2022.06.13)
+
+* NeRV: Neural Representations for Videos (박여정)
+
+  [NeRV: Neural Representations for Videos](https://arxiv.org/pdf/2110.13903.pdf)
+
+* Can Neural Nets Learn the Same Model Twice? Investigating Reproducibility and Double Descent from the Decision Boundary Perspective (이상현)
+
+  [Can Neural Nets Learn the Same Model Twice? Investigating Reproducibility and Double Descent from the Decision Boundary Perspective](https://arxiv.org/abs/2203.08124)
+
+
+##### Week-134 (2022.06.20)
+
+* ROME: Realistic one-shot mesh-based head avatars (이재성)
+
+  [ROME: Realistic one-shot mesh-based head avatars](https://arxiv.org/abs/2206.08343)
+
+
+##### Week-135 (2022.06.27)
+
+* Latent to Latent: A Learned Mapper for Identity Preserving Editing of Multiple Face Attributes in StyleGAN-generated Images (김상우)
+
+  [Latent to Latent: A Learned Mapper for Identity Preserving Editing of Multiple Face Attributes in StyleGAN-generated Images](https://openaccess.thecvf.com/content/WACV2022/papers/Khodadadeh_Latent_to_Latent_A_Learned_Mapper_for_Identity_Preserving_Editing_WACV_2022_paper.pdf)
+
+
+* Image Super-Resolution via Iterative Refinement (남궁영수)
+
+  [Image Super-Resolution via Iterative Refinement](https://arxiv.org/abs/2104.07636)
+
+
+
+
 
 
