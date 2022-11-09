@@ -183,9 +183,12 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
 * Semantic Image Synthesis (박민호)
 
-  [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
+	[High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/pdf/1711.11585.pdf)
+  
 	[Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
+	
 	[Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis](https://arxiv.org/abs/1910.06809)
+	
 	[You Only Need Adversarial Supervision for Semantic Image Synthesis](https://arxiv.org/abs/2012.04781)
 
 ##### Week-127 (2022.05.02)
@@ -277,6 +280,98 @@ This repository provides the presentation slides of Computer Vision Study in [DA
 
   [Image Super-Resolution via Iterative Refinement](https://arxiv.org/abs/2104.07636)
 
+
+
+
+
+##### Week-136 (2022.07.04)
+
+* Morpheus: A Deep Leaning Framework for the Pixel-level Analysis of Astronomical Image Data (황지혜)
+
+  [Latent to Latent: A Learned Mapper for Identity Preserving Editing of Multiple Face Attributes in StyleGAN-generated Images](https://arxiv.org/pdf/1906.11248.pdf)
+
+
+* Advances in Vision Language Pretraining (김동현)
+
+
+
+
+##### Week-137 (2022.07.11)
+
+* Are We Done With ImageNet? (이재성)
+
+  [Are We Done With ImageNet?](https://arxiv.org/abs/2006.07159)
+
+
+* High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions (구교정)
+
+  [High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions](https://arxiv.org/abs/2206.14180)
+
+
+
+
+##### Week-138 (2022.07.18)
+
+* Fast-Vid2Vid (박여정)
+
+  [Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis](https://arxiv.org/pdf/2207.05049.pdf)
+
+
+##### Week-139 (2022.07.25)
+
+* Advances in Story Visualization (정채연)
+
+  1. StoryGAN: A Sequential Conditional GAN for Story Visualization, CVPR 2019
+  2. Improved-StoryGAN for sequential images visualization, JVCIR 2020
+  3. (CP-CSV) Character-Preserving Coherent Story Visualization, ECCV 2020
+  4. (DUCO-StoryGAN) Improving Generation and Evaluation of Visual Stories via Semantic Consistency, NAACL 2021
+  5. (VLC-StoryGAN) Integrating Visuospatial, Linguistic and Commonsense Structure into Story Visualization, EMNLP 2021
+  6. Generating a Temporally Coherent Visual Story with Multimodal Recurrent Transformers, ACL ARR 2022
+
+* Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation (이한얼)
+
+  [Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation](https://arxiv.org/pdf/2203.12707.pdf)
+
+
+
+#### Week-140 (2022.08.01)
+
+* Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions (박민호)
+
+  [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions](https://arxiv.org/abs/2102.05379)
+
+
+#### Week-141 (2022.08.08)
+
+* Pretraining is All You Need for Image-to-Image Translation (윤주열)
+
+  [Pretraining is All You Need for Image-to-Image Translation](https://arxiv.org/abs/2205.12952)
+
+
+
+#### Week-142 (2022.08.15)
+
+* An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion (이상윤)
+
+  [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618)
+
+  [Project Page](https://textual-inversion.github.io/)
+
+
+
+#### Week-143 (2022.08.22)
+
+* Few-Shot Head Swapping in the Wild (이재성)
+
+  [Few-Shot Head Swapping in the Wild](https://jmliu88.github.io/HeSer/)
+
+
+
+#### Week-144 (2022.08.29)
+
+* Bringing Old Films Back to Life (뭉크소열)
+
+  [Bringing Old Films Back to Life](https://arxiv.org/pdf/2203.17276.pdf)
 
 
 
